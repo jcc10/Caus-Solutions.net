@@ -1,0 +1,287 @@
+[Tue Apr 28 12:11:53 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Tue Apr 28 12:11:53 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Tue Apr 28 13:13:45 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/
+[Tue Apr 28 13:13:45 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/
+[Tue Apr 28 13:13:45 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 13:13:45 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 13:53:29 2015] [error] [client 72.37.244.148] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/
+[Tue Apr 28 13:53:29 2015] [error] [client 72.37.244.148] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 13:53:29 2015] [error] [client 72.37.244.148] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/
+[Tue Apr 28 13:53:29 2015] [error] [client 72.37.244.148] File does not exist: /WebFiles/caus-solutions.net/www/img, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 13:53:29 2015] [error] [client 72.37.244.148] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico, referer: http://caus-solutions.com/
+[Tue Apr 28 17:45:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com/
+[Tue Apr 28 17:45:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com/
+[Tue Apr 28 17:45:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:45:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:45:28 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com/credits.html
+[Tue Apr 28 17:45:28 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com/credits.html
+[Tue Apr 28 17:45:28 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:45:29 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:45:43 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com/credits.html
+[Tue Apr 28 17:45:43 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com/credits.html
+[Tue Apr 28 17:45:43 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:45:43 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:53:25 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com/credits.html
+[Tue Apr 28 17:53:25 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com/credits.html
+[Tue Apr 28 17:53:25 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:53:25 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 17:53:35 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/credits.html
+[Tue Apr 28 17:53:35 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/credits.html
+[Tue Apr 28 17:53:35 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 17:53:35 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 17:53:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/index.html
+[Tue Apr 28 17:53:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/index.html
+[Tue Apr 28 17:53:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 17:53:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:00:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:00:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:00:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/menu_style.css
+[Tue Apr 28 18:00:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/menu_style.css
+[Tue Apr 28 18:01:12 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/index.html
+[Tue Apr 28 18:01:12 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/index.html
+[Tue Apr 28 18:01:12 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:01:12 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:01:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:01:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:01:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/menu_style.css
+[Tue Apr 28 18:01:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/menu_style.css
+[Tue Apr 28 18:01:22 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:01:22 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:01:22 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:01:22 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:01:28 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/Example_ads, referer: http://caus-solutions.com/
+[Tue Apr 28 18:16:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:16:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:16:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:16:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:17:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.html denied
+[Tue Apr 28 18:17:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.cgi denied
+[Tue Apr 28 18:17:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.pl denied
+[Tue Apr 28 18:17:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.php denied
+[Tue Apr 28 18:17:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.xhtml denied
+[Tue Apr 28 18:17:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.htm denied
+[Tue Apr 28 18:17:09 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.html denied
+[Tue Apr 28 18:17:09 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.cgi denied
+[Tue Apr 28 18:17:09 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.pl denied
+[Tue Apr 28 18:17:09 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.php denied
+[Tue Apr 28 18:17:09 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.xhtml denied
+[Tue Apr 28 18:17:09 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/index.htm denied
+[Tue Apr 28 18:17:11 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'items' (T_STRING) in /WebFiles/caus-solutions.net/www/index..php on line 26, referer: http://caus-solutions.com/
+[Tue Apr 28 18:18:21 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'items' (T_STRING) in /WebFiles/caus-solutions.net/www/index.php on line 26
+[Tue Apr 28 18:18:44 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'items' (T_STRING) in /WebFiles/caus-solutions.net/www/index.php on line 26
+[Tue Apr 28 18:18:45 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'items' (T_STRING) in /WebFiles/caus-solutions.net/www/index.php on line 26
+[Tue Apr 28 18:18:47 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'items' (T_STRING) in /WebFiles/caus-solutions.net/www/index.php on line 26
+[Tue Apr 28 18:18:57 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 27
+[Tue Apr 28 18:18:58 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:19:00 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 27
+[Tue Apr 28 18:19:00 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:19:17 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 27
+[Tue Apr 28 18:19:18 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:19:18 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 27
+[Tue Apr 28 18:19:19 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:19:46 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 27
+[Tue Apr 28 18:19:46 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:19:54 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 27
+[Tue Apr 28 18:19:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:20:49 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 29
+[Tue Apr 28 18:20:50 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:22:31 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 29
+[Tue Apr 28 18:22:31 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:23:25 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Tue Apr 28 18:23:25 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Tue Apr 28 18:23:30 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare end() in /WebFiles/caus-solutions.net/www/sidebar.php on line 29
+[Tue Apr 28 18:23:30 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:25:06 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:25:06 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:25:06 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:25:06 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:25:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:25:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:25:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:25:59 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:28:12 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/index.html
+[Tue Apr 28 18:28:17 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:28:17 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:28:17 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:28:17 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:40:48 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /WebFiles/caus-solutions.net/www/sidebar.php on line 39
+[Tue Apr 28 18:40:48 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:41:10 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:41:10 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:41:10 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:41:10 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:41:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:41:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:41:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:41:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:44:15 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:44:15 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:44:15 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:44:15 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:46:27 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:46:27 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 18:46:27 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:46:27 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:49:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/Services.php
+[Tue Apr 28 18:49:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:49:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/Services.php
+[Tue Apr 28 18:49:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:49:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:49:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:49:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:49:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:49:59 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/credits.html, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:56:38 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare head() (previously declared in /WebFiles/caus-solutions.net/static_dynamic.php:3) in /WebFiles/caus-solutions.net/static_dynamic.php on line 19, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:56:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:56:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:57:16 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare head() (previously declared in /WebFiles/caus-solutions.net/static_dynamic.php:3) in /WebFiles/caus-solutions.net/static_dynamic.php on line 19, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:57:16 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:57:17 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:57:31 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare head() (previously declared in /WebFiles/caus-solutions.net/static_dynamic.php:3) in /WebFiles/caus-solutions.net/static_dynamic.php on line 19, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:57:32 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:57:32 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:57:35 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare head() (previously declared in /WebFiles/caus-solutions.net/static_dynamic.php:3) in /WebFiles/caus-solutions.net/static_dynamic.php on line 19, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:57:35 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:57:35 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:58:20 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:58:21 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:59:36 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'foot' (T_STRING), expecting ',' or ';' in /WebFiles/caus-solutions.net/www/index.php on line 72, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 18:59:44 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 18:59:45 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:00:55 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare head() (previously declared in /WebFiles/caus-solutions.net/static_dynamic.php:3) in /WebFiles/caus-solutions.net/static_dynamic.php on line 19, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 19:00:56 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:00:56 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:01:30 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Tue Apr 28 19:03:43 2015] [error] [client 73.2.14.72] PHP Fatal error:  Cannot redeclare head() (previously declared in /WebFiles/caus-solutions.net/static_dynamic.php:3) in /WebFiles/caus-solutions.net/static_dynamic.php on line 19, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 19:03:43 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:03:43 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:06:04 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'left' (T_STRING), expecting ',' or ';' in /WebFiles/caus-solutions.net/static_dynamic.php on line 29, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 19:06:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:06:37 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'left' (T_STRING), expecting ',' or ';' in /WebFiles/caus-solutions.net/static_dynamic.php on line 29, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 19:06:37 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:06:39 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected 'left' (T_STRING), expecting ',' or ';' in /WebFiles/caus-solutions.net/static_dynamic.php on line 29, referer: http://caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 19:06:39 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:07:37 2015] [error] [client 128.30.52.71] File does not exist: /WebFiles/caus-solutions.net/www/Example_ads
+[Tue Apr 28 19:09:37 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:09:37 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:09:37 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:09:37 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:10:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:10:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:10:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:10:42 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:10:57 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:10:57 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:10:57 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:10:57 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:12:20 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:12:20 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:12:20 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:12:20 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:21:17 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/credits.html, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:21:21 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:21:21 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/index.php
+[Tue Apr 28 19:21:21 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:21:21 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:21:26 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/credits.php
+[Tue Apr 28 19:21:26 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/credits.php
+[Tue Apr 28 19:21:26 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:21:26 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:29:52 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com//index.php
+[Tue Apr 28 19:29:52 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com//index.php
+[Tue Apr 28 19:29:52 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com//style.css
+[Tue Apr 28 19:29:52 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com//style.css
+[Tue Apr 28 19:30:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com//index.php
+[Tue Apr 28 19:30:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com//index.php
+[Tue Apr 28 19:30:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com//style.css
+[Tue Apr 28 19:30:38 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com//style.css
+[Tue Apr 28 19:30:49 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com/index.php
+[Tue Apr 28 19:30:49 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com/index.php
+[Tue Apr 28 19:30:49 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 19:30:49 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 19:30:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 19:30:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com/PayPalPWYW.php
+[Tue Apr 28 19:30:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 19:30:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 19:30:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://www.caus-solutions.com/index.php
+[Tue Apr 28 19:30:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://www.caus-solutions.com/index.php
+[Tue Apr 28 19:30:56 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 19:30:56 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://www.caus-solutions.com/style.css
+[Tue Apr 28 19:39:54 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 19:39:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 19:39:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/page_bg.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:39:55 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:40:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 19:40:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 19:40:04 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/virt_line.png denied, referer: http://caus-solutions.com/style.css
+[Tue Apr 28 19:42:27 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 19:42:27 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 19:44:47 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/vcss-blue.gif denied, referer: http://caus-solutions.com/
+[Tue Apr 28 19:44:47 2015] [error] [client 73.2.14.72] (13)Permission denied: access to /img/valid-xhtml11-blue.png denied, referer: http://caus-solutions.com/
+[Tue Apr 28 20:14:59 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/website-set-up
+[Tue Apr 28 21:18:32 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Tue Apr 28 22:13:11 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Tue Apr 28 23:07:34 2015] [error] [client 38.100.21.69] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Tue Apr 28 23:12:15 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/website-set-up
+[Wed Apr 29 00:27:19 2015] [error] [client 73.2.14.72] PHP Fatal error:  Call to undefined function sd_head_item() in /WebFiles/caus-solutions.net/MY_static_dynamic.php on line 12
+[Wed Apr 29 00:27:22 2015] [error] [client 73.2.14.72] PHP Fatal error:  Call to undefined function sd_head_item() in /WebFiles/caus-solutions.net/MY_static_dynamic.php on line 12
+[Wed Apr 29 01:06:12 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Wed Apr 29 01:26:39 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico, referer: http://caus-solutions.com/
+[Wed Apr 29 01:26:42 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/Example_ads, referer: http://caus-solutions.com/
+[Wed Apr 29 02:01:17 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/website-set-up
+[Wed Apr 29 03:35:25 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/system
+[Wed Apr 29 03:57:05 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Wed Apr 29 05:56:04 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/website-set-up
+[Wed Apr 29 06:48:55 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Wed Apr 29 06:48:55 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Wed Apr 29 12:15:14 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Wed Apr 29 13:08:18 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/index.html, referer: http://caus-solutions.com/
+[Wed Apr 29 13:25:53 2015] [error] [client 157.55.39.186] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Wed Apr 29 13:28:51 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Wed Apr 29 13:28:51 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Wed Apr 29 16:03:37 2015] [error] [client 174.50.166.113] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico, referer: http://caus-solutions.com/
+[Wed Apr 29 16:54:36 2015] [error] [client 66.60.156.2] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Wed Apr 29 16:54:36 2015] [error] [client 66.60.156.2] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Wed Apr 29 20:43:51 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Thu Apr 30 01:05:57 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Thu Apr 30 05:14:48 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Thu Apr 30 10:01:11 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Thu Apr 30 16:30:43 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Thu Apr 30 16:30:43 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Thu Apr 30 16:39:32 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Thu Apr 30 16:39:32 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Thu Apr 30 17:19:09 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Thu Apr 30 17:19:10 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/mobile
+[Thu Apr 30 19:26:46 2015] [error] [client 66.166.151.58] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico, referer: http://www.caus-solutions.com/index.php
+[Thu Apr 30 21:54:28 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Thu Apr 30 23:15:03 2015] [error] [client 207.46.13.10] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Thu Apr 30 23:15:16 2015] [error] [client 207.46.13.10] File does not exist: /WebFiles/caus-solutions.net/www/home
+[Fri May 01 05:09:12 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Fri May 01 05:29:36 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Fri May 01 10:44:45 2015] [error] [client 67.152.152.11] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico, referer: http://www.caus-solutions.com/
+[Fri May 01 10:45:08 2015] [error] [client 67.152.152.11] File does not exist: /WebFiles/caus-solutions.net/www/WebFiles
+[Fri May 01 10:45:10 2015] [error] [client 67.152.152.11] File does not exist: /WebFiles/caus-solutions.net/www/WebFiles
+[Fri May 01 14:50:02 2015] [error] [client 207.46.13.85] File does not exist: /WebFiles/caus-solutions.net/www/system
+[Fri May 01 16:26:10 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Fri May 01 16:26:10 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Fri May 01 16:50:21 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Fri May 01 16:50:33 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/mobile
+[Fri May 01 17:30:22 2015] [error] [client 66.249.67.146] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Fri May 01 21:23:48 2015] [error] [client 207.46.13.119] File does not exist: /WebFiles/caus-solutions.net/www/system
+[Fri May 01 22:14:29 2015] [error] [client 68.0.154.144] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Fri May 01 22:14:34 2015] [error] [client 68.0.154.144] File does not exist: /WebFiles/caus-solutions.net/www/Services.html, referer: http://www.caus-solutions.com/
+[Sat May 02 02:18:22 2015] [error] [client 66.249.67.146] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 03:15:30 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 04:11:37 2015] [error] [client 66.249.67.146] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 04:44:50 2015] [error] [client 66.249.67.146] File does not exist: /WebFiles/caus-solutions.net/www/mobile
+[Sat May 02 06:15:40 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sat May 02 06:15:40 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Sat May 02 07:14:28 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sat May 02 07:14:28 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 08:06:56 2015] [error] [client 207.46.13.10] File does not exist: /WebFiles/caus-solutions.net/www/home
+[Sat May 02 10:31:05 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 14:52:07 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 15:50:15 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Sat May 02 16:35:36 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/m
+[Sat May 02 16:51:06 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 17:47:05 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
