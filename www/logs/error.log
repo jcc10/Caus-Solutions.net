@@ -285,3 +285,109 @@
 [Sat May 02 16:35:36 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/m
 [Sat May 02 16:51:06 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
 [Sat May 02 17:47:05 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Sat May 02 18:01:15 2015] [error] [client 162.244.14.72] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Sat May 02 18:46:13 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sat May 02 18:46:13 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 19:48:40 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sat May 02 19:48:40 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 20:46:48 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Sat May 02 21:45:15 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 22:44:10 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sat May 02 23:39:32 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 00:32:39 2015] [error] [client 66.249.67.55] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Sun May 03 01:37:18 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 02:37:35 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 03:03:54 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Sun May 03 04:30:58 2015] [error] [client 66.249.67.2] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 05:34:31 2015] [error] [client 66.249.67.47] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 06:32:05 2015] [error] [client 66.249.67.39] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Sun May 03 07:22:33 2015] [error] [client 66.249.67.154] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 08:25:49 2015] [error] [client 66.249.64.55] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sun May 03 08:25:49 2015] [error] [client 66.249.64.55] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 09:08:49 2015] [error] [client 23.229.27.204] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Sun May 03 09:19:53 2015] [error] [client 66.249.64.20] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sun May 03 09:19:53 2015] [error] [client 66.249.64.22] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 10:29:30 2015] [error] [client 66.249.64.55] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Sun May 03 11:22:34 2015] [error] [client 66.249.64.53] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 12:21:17 2015] [error] [client 66.249.64.51] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Sun May 03 13:28:28 2015] [error] [client 66.249.64.51] File does not exist: /WebFiles/caus-solutions.net/www/website-set-up
+[Sun May 03 14:26:07 2015] [error] [client 66.249.64.20] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 16:29:00 2015] [error] [client 66.249.64.20] File does not exist: /WebFiles/caus-solutions.net/www/m
+[Sun May 03 16:50:55 2015] [error] [client 157.55.39.78] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sun May 03 16:51:25 2015] [error] [client 157.55.39.78] File does not exist: /WebFiles/caus-solutions.net/www/orangemesh
+[Sun May 03 21:04:24 2015] [error] [client 66.249.64.55] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sun May 03 21:04:24 2015] [error] [client 66.249.64.55] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 22:07:09 2015] [error] [client 66.249.64.18] File does not exist: /WebFiles/caus-solutions.net/www/robots.txt
+[Sun May 03 22:07:09 2015] [error] [client 66.249.64.20] File does not exist: /WebFiles/caus-solutions.net/www/Services.html
+[Sun May 03 23:09:09 2015] [error] [client 66.249.64.51] File does not exist: /WebFiles/caus-solutions.net/www/contact
+[Mon May 04 00:03:15 2015] [error] [client 66.249.64.53] File does not exist: /WebFiles/caus-solutions.net/www/data-loss-prevention
+[Mon May 04 05:07:24 2015] [error] [client 207.46.13.85] File does not exist: /WebFiles/caus-solutions.net/www/website-set-up
+[Mon May 04 12:04:38 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Mon May 04 12:04:38 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Mon May 04 12:05:03 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico, referer: http://caus-solutions.com/
+[Mon May 04 12:29:59 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico, referer: http://caus-solutions.com/
+[Mon May 04 13:05:46 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Mon May 04 13:05:46 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Fatal error:  Call to undefined function sd_con() in /WebFiles/caus-solutions.net/www/index.php on line 26, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Fatal error:  Call to undefined function sd_con() in /WebFiles/caus-solutions.net/www/index.php on line 26, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Fatal error:  Call to undefined function sd_con() in /WebFiles/caus-solutions.net/www/index.php on line 26, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 16:40:22 2015] [error] [client 23.254.201.85] PHP Fatal error:  Call to undefined function sd_con() in /WebFiles/caus-solutions.net/www/index.php on line 26, referer: CAUS-SOLUTIONS.COM
+[Mon May 04 17:38:45 2015] [error] [client 73.2.14.72] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 25
+[Mon May 04 17:38:45 2015] [error] [client 73.2.14.72] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 25
+[Mon May 04 17:38:45 2015] [error] [client 73.2.14.72] PHP Fatal error:  Call to undefined function sd_con() in /WebFiles/caus-solutions.net/www/index.php on line 26
+[Mon May 04 17:38:45 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Mon May 04 17:38:45 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/favicon.ico
+[Mon May 04 18:17:53 2015] [error] [client 107.170.92.214] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: http://www.netcraft.com/survey/
+[Mon May 04 18:17:53 2015] [error] [client 107.170.92.214] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 25, referer: http://www.netcraft.com/survey/
+[Mon May 04 18:17:53 2015] [error] [client 107.170.92.214] PHP Fatal error:  Call to undefined function sd_con() in /WebFiles/caus-solutions.net/www/index.php on line 26, referer: http://www.netcraft.com/survey/
+[Mon May 04 18:40:28 2015] [error] [client 73.2.14.72] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 2
+[Mon May 04 18:40:28 2015] [error] [client 73.2.14.72] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 2
+[Mon May 04 18:40:28 2015] [error] [client 73.2.14.72] PHP Fatal error:  Call to undefined function Static_banner() in /WebFiles/caus-solutions.net/www/index.php on line 15
+[Mon May 04 18:41:46 2015] [error] [client 73.2.14.72] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 2
+[Mon May 04 18:41:46 2015] [error] [client 73.2.14.72] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 2
+[Mon May 04 18:41:46 2015] [error] [client 73.2.14.72] PHP Fatal error:  Call to undefined function Static_banner() in /WebFiles/caus-solutions.net/www/index.php on line 15
+[Mon May 04 18:42:11 2015] [error] [client 73.2.14.72] PHP Warning:  include(/WebFiles/caus-solutions.net/www/static_dynamic.php): failed to open stream: Permission denied in /WebFiles/caus-solutions.net/www/index.php on line 2
+[Mon May 04 18:42:11 2015] [error] [client 73.2.14.72] PHP Warning:  include(): Failed opening '/WebFiles/caus-solutions.net/www/static_dynamic.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /WebFiles/caus-solutions.net/www/index.php on line 2
+[Mon May 04 18:42:11 2015] [error] [client 73.2.14.72] PHP Fatal error:  Call to undefined function Static_banner() in /WebFiles/caus-solutions.net/www/index.php on line 15
+[Mon May 04 18:44:14 2015] [error] [client 73.2.14.72] PHP Parse error:  syntax error, unexpected '$origin' (T_VARIABLE) in /WebFiles/caus-solutions.net/www/static_dynamic.php on line 34
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 24
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 24
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 26
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 27
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 27
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 29
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/vcss-blue.gif, referer: http://caus-solutions.com/
+[Mon May 04 18:45:01 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/valid-xhtml11-blue.png, referer: http://caus-solutions.com/
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 24
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 24
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 26
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 27
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 27
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: settings in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 29
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/vcss-blue.gif, referer: http://caus-solutions.com/
+[Mon May 04 18:46:44 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/valid-xhtml11-blue.png, referer: http://caus-solutions.com/
+[Mon May 04 18:47:02 2015] [error] [client 73.2.14.72] File does not exist: /WebFiles/caus-solutions.net/www/vcss-blue.gif
+[Mon May 04 18:48:15 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 27
+[Mon May 04 18:48:15 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:48:15 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined index: root in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:48:15 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 29
+[Mon May 04 18:48:15 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 30
+[Mon May 04 18:48:24 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 27
+[Mon May 04 18:48:24 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:48:24 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined index: root in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:48:24 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 29
+[Mon May 04 18:48:24 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined variable: sd_tab in /WebFiles/caus-solutions.net/www/static.php on line 30
+[Mon May 04 18:49:11 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined index: root in /WebFiles/caus-solutions.net/www/static.php on line 28
+[Mon May 04 18:49:22 2015] [error] [client 73.2.14.72] PHP Notice:  Undefined index: root in /WebFiles/caus-solutions.net/www/static.php on line 28
