@@ -1,0 +1,18 @@
+{
+  "_Comment00": "Only use true if you have valadated your CSS file",
+  "ValidCSS": true,
+  "_Comment01": "Your Company's name",
+  "CO-Name": "C&#225;us Solutions",
+  "_Comment02": "Somthing short for the title element in the header",
+  "PageTitle": "C/S",
+  "_Comment03": "The title in your page header",
+  "Title": "C&#225;us Solutions",
+  "_Comment04": "This contains a list of subtitles that will be randomly selected (Can be overwriten on a per page basis.",
+  "Subtitles": [
+    "<em>Pay what you want</em> Tech-support"
+  ],
+  "_Comment05": "Where the page element images are stored.",
+  "static": "http://static.caus-solutions.com/img/",
+  "_Comment06": "The domain name you are on (if you dont want it based off of where you currently are)",
+  "Root": ""
+}

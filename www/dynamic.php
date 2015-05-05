@@ -1,13 +1,12 @@
 <?php
-	/*	All Settings go below here	*/
-	/** Banner Settings	**/
-	//Top title
-	$settings["CO-Name"] = "C&#225;us Solutions";
-	$settings["Title"] = $settings["CO-Name"];
-	//$settings["Subtitles"] = array("<em>Pay what you want</em> Tech-support"); TODO: Random Subtitles
-	$settings["Subtitle"] = "<em>Pay what you want</em> Tech-support";
+	/*	Settings moved to dynamic.json, edit that	*/
+	//
+	$JSON_settings = file_get_contents("./dynamic.json");
+	$settings = json_decode($JSON_settings, true);
 	
-	/** Domain & Sub-Domain Names **/
-	$settings["static"] = "http://static.caus-solutions.com/img/";
-	$settings["Root"] = "";
+	$__Subs = $settings["Subtitles"];
+	$__Subscount = count($__Subs) - 1;
+	$__RandomSub = rand(0,$__Subscount);
+	
+	$settings["Subtitle"] = $__Subs[$__RandomSub];
 ?>

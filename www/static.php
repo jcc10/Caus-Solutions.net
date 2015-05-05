@@ -1,16 +1,37 @@
 <?php
+//Used to echo static HTML
+function StatHTM($HTML) {
+	echo $HTML;
+}
+
+//Headder. Grabs variables from dynamic.php.
+function Static_header($PageTitle) {
+	global $settings;
+	echo"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n\t<head>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n\t\t<title>" . $settings["PageTitle"] . ": " . $PageTitle . "</title>\n\t\t<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\" />\n\t\t</head>";
+}
+
 //Banner. Grabs variables from dynamic.php.
 function Static_banner() {
 	global $settings;
-	$tab = "\t\t\t\t";
-	echo "$tab<h1>" . $settings["Title"] . "</h1>\n$tab<h2>" . $settings["Subtitle"] . "</h2>\n$tab<br />\n$tab<hr />";
+	$tab = "\t\t\t";
+	echo "$tab<div id='banner'>$tab\t<h1>" . $settings["Title"] . "</h1>\n$tab\t<h2>" . $settings["Subtitle"] . "</h2>\n$tab\t<br />\n$tab\t<hr />\n$tab</div> <!-- end banner -->";
+}
+
+function Static_sidemenu($Sidebar, $SourcePageName) {
+	$tab = "\t\t\t\t\t\t";
+	echo "\t\t\t\t\t<ul>\n";
+	echo "$tab<li>Navigation</li>\n";
+	foreach ($Sidebar as $ID => $Item) {
+		Static_sidemenu_item($Item, $SourcePageName);
+	}
+	echo "\t\t\t\t\t</ul>\n";
 }
 
 // Sidebar item format. Called by StaticDynamic sidebar function.
-function Static_sidebar_item($Item, $SourcePageName) {
+function Static_sidemenu_item($Item, $SourcePageName) {
 	$tab = "\t\t\t\t\t\t";
 	if ($Item["PageName"] == $SourcePageName) {
-		echo "$tab<li><a href=\"#header\">" . $Item["Text"] . "</a></li>\n";
+		echo "$tab<li><b>" . $Item["Text"] . "</b></li>\n";
 	} else{
 		echo "$tab<li><a href=\"" . $Item["Link"] . "\">" . $Item["Text"] . "</a></li>\n";
 	}

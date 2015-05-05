@@ -1,0 +1,34 @@
+{
+  "Home": {
+    "PageName": "Home",
+    "Title": "Home",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "Content": "Soon...",
+    "ValidXHTML": true
+  },
+  "Credits": {
+    "PageName": "Credits",
+    "Title": "Credits",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "Content": "I TOLD YOU SOON...",
+    "ValidXHTML": true
+  },
+  "Services": {
+    "PageName": "Services",
+    "Title": "Our Services",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "Content": "You arn't Listning...",
+    "ValidXHTML": true
+  },
+  "CommunityJar": {
+    "PageName": "CommunityJar",
+    "Title": "Community Jar",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "Content": "Sigh...",
+    "ValidXHTML": true
+  }
+}

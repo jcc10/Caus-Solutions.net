@@ -22,7 +22,7 @@ html {
   -moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
   -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
 }
-#header {
+#banner {
 	cursor:default;
 	width:100%;
 	padding-top:15px;
@@ -100,6 +100,12 @@ h3 {
 }
 #leftcontent a {
 	color:#0098D4;
+	text-decoration:none;
+	font-size:16px;
+	background-color:#FFFFFF;
+}
+#leftcontent b {
+	color:#548FA7;
 	text-decoration:none;
 	font-size:16px;
 	background-color:#FFFFFF;
