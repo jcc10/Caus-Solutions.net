@@ -1,3 +1,6 @@
+<?php
+include "/WebFiles/caus-solutions.net/www/static_dynamic.php";
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
@@ -9,11 +12,7 @@
 	<body>
 		<div id="container">
 			<div id="header">
-				<h1>Cáus-Solutions</h1>
-				<h2><em>Pay what you want</em> Tech-support</h2>
-				<br />
-				<hr />
-
+				<?php Static_banner(); ?>
 			</div> <!-- end header -->
 
 			<div class="spacer"></div>
@@ -21,11 +20,7 @@
 
 				<div id="leftcontent">
 
-					<?php
-						include "/WebFiles/caus-solutions.net/MY_static_dynamic.php";
-						sd_con("www");
-						sd_side("Home");
-					?>
+					<?php StaticDynamic_side("Home"); ?>
 					<p>&nbsp;</p><!--
 					<h3>News</h3>
 					<p class="news">
@@ -67,9 +62,7 @@
 				</div> <!-- end main content section -->
 			</div> 
 			<div id="footer"><div class="spacer"></div>
-				<?php
-					sd_foot();
-				?>
+				<?php Static_Footer(); ?>
 			</div> <!-- end footer -->
 
 		</div> <!-- end container -->

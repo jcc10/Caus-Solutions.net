@@ -1,3 +1,9 @@
+# Stop loading log files :P
+logs/
+*.log
+
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
