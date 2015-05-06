@@ -1,3 +1,5 @@
+#Project is DEAD, I am moving on for now since I am tired of trying to figure out a storage system...
+
 # Caus-Solutions.net
 Caus-Solutions.net's website files.
 
