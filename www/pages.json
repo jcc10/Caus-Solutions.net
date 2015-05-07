@@ -1,10 +1,16 @@
 {
+  "404": {
+    "PageName": "404",
+    "Title": "PageNotFound",
+    "Subtitle": "My Little Pony! My Little Pony! Frendship Is Magic!",
+    "Sidebar": "Main",
+    "ValidXHTML": true
+  },
   "Home": {
     "PageName": "Home",
     "Title": "Home",
     "Subtitle": "None",
     "Sidebar": "Main",
-    "Content": "Soon...",
     "ValidXHTML": true
   },
   "Credits": {
@@ -12,7 +18,6 @@
     "Title": "Credits",
     "Subtitle": "None",
     "Sidebar": "Main",
-    "Content": "I TOLD YOU SOON...",
     "ValidXHTML": true
   },
   "Services": {
@@ -20,7 +25,6 @@
     "Title": "Our Services",
     "Subtitle": "None",
     "Sidebar": "Main",
-    "Content": "You arn't Listning...",
     "ValidXHTML": true
   },
   "CommunityJar": {
@@ -28,7 +32,6 @@
     "Title": "Community Jar",
     "Subtitle": "None",
     "Sidebar": "Main",
-    "Content": "Sigh...",
     "ValidXHTML": true
   }
 }

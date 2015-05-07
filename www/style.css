@@ -3,7 +3,12 @@ body {
 	font-size:12px;
 	/* cursor:default; */
 	color:#FF0000;
-	background: url('http://static.caus-solutions.com/img/page_bg.png') top left repeat-x #c8c8c8;
+	background: -moz-linear-gradient(top, #FFFFFF 0%, #c8c8c8 480px, #c8c8c8 100%) no-repeat;
+	background: -webkit-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
+	background: -o-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
+	background: -ms-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
+	background: linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
+	background-color: #c8c8c8;
 }
 * {
 	margin: 0px;
