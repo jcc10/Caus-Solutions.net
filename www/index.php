@@ -5,6 +5,11 @@
 	} else {
 		$page = "Home";
 	}
+	if (empty($_GET["style"]) != True){
+		$style = "?style=" . $_GET["style"];
+	} else {
+		$style = "";
+	}
 	//Load the DB's Contents
 	include "./DB_Loader.php";
 	//Load the HTML Format stuffz
@@ -25,7 +30,7 @@
 		}
 	}
 	//Print the header
-	Static_header($PageData["Title"]);
+	Static_header($PageData["Title"], $style);
 	//Static HTML: Beginning of the page
 	StatHTM("\n\n\t<body>\n\t\t<div id='container'>\n");
 	//Print the Banner text

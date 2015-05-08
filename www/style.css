@@ -3,11 +3,11 @@ body {
 	font-size:12px;
 	/* cursor:default; */
 	color:#FF0000;
-	background: -moz-linear-gradient(top, #FFFFFF 0%, #c8c8c8 480px, #c8c8c8 100%) no-repeat;
-	background: -webkit-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
-	background: -o-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
-	background: -ms-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
-	background: linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 100%) no-repeat;
+	background: -moz-linear-gradient(top, #FFFFFF 0%, #c8c8c8 480px, #c8c8c8 480px) no-repeat;
+	background: -webkit-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,rgb(196,196,196) 480px) no-repeat;
+	background: -o-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 480px) no-repeat;
+	background: -ms-linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 480px) no-repeat;
+	background: linear-gradient(top, #FFFFFF 0%,#c8c8c8 480px,#c8c8c8 480px) no-repeat;
 	background-color: #c8c8c8;
 }
 * {
@@ -96,6 +96,18 @@ h3 {
 	margin-left:20px;
 	margin-right:20px;
 }
+.news {
+	color:#999999;
+	border-bottom:1px;
+	border-left:1px;
+	border-right:1px;
+	border-top:0px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	background-color:#FFFFFF;
+	line-height:20px;
+	padding:5px;
+}
 #leftcontent ul {
 	cursor:default;
 	list-style:none;
@@ -109,28 +121,16 @@ h3 {
 	font-size:16px;
 	background-color:#FFFFFF;
 }
+#leftcontent a:hover {
+	color:#0098D4;
+	background-color:#FFFFFF;
+	text-decoration:underline;
+}
 #leftcontent b {
 	color:#548FA7;
 	text-decoration:none;
 	font-size:16px;
 	background-color:#FFFFFF;
-}
-.news {
-	color:#999999;
-	border-bottom:1px;
-	border-left:1px;
-	border-right:1px;
-	border-top:0px;
-	border-style:solid;
-	border-color:#AAAAAA;
-	background-color:#FFFFFF;
-	line-height:20px;
-	padding:5px;
-}
-#leftcontent a:hover {
-	color:#0098D4;
-	background-color:#FFFFFF;
-	text-decoration:underline;
 }
 #main {
 	float:left;
@@ -139,7 +139,7 @@ h3 {
 	background-color:#FFFFFF;
 	padding-bottom:20px;
 	background:url('http://static.caus-solutions.com/img/virt_line.png');
-  background-repeat: repeat-y;
+    background-repeat: repeat-y;
 }
 #maincontent p {
 	cursor:default;
