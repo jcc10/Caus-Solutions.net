@@ -36,6 +36,12 @@
 				$style = $_COOKIE["style"];
 			}else{
 				$style = "CoolIce";
+				
+				$day = 86400;
+				$exptime = (($day/24)/30);
+				/*name is your cookie's name
+				value is cookie's value
+				$int is time of cookie expires*/
 				setcookie("style",$style,time()+$exptime);
 			}
 		}
@@ -44,6 +50,12 @@
 			$style = $_COOKIE["style"];
 		}else{
 			$style = "CoolIce";
+			
+			$day = 86400;
+			$exptime = (($day/24)/30);
+			/*name is your cookie's name
+			value is cookie's value
+			$int is time of cookie expires*/
 			setcookie("style",$style,time()+$exptime);
 		}
 	}
