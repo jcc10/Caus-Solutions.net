@@ -1,0 +1,9 @@
+{
+    "PageName": "404",
+    "Title": "PageNotFound",
+    "Subtitle": "My Little Pony! My Little Pony! Frendship Is Magic!",
+    "Sidebar": "Main",
+    "ValidXHTML": true,
+	"Enabled": true,
+	"File": "404.html"
+  }

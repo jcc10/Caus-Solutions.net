@@ -1,96 +1,13 @@
 <?php
-    header("Content-type: text/css; charset: UTF-8");
-	//looks through the Style Dir for the style, prevents errors.
+    
+	$defaultCSS = "CoolIce";
 	
-	$listoffiles = scandir("./JSON/STYLES/");
-	function FindStyle($StyleName){
-		$stylePP = $StyleName . ".json";
-		global $listoffiles;
-		$Found = False;
-		foreach($listoffiles as $file) {
-			if (($file == ".") or ($file == "..")) {
-				Null;
-			} else {
-				if ($file == "$stylePP"){
-					$Found = True;
-				}
-			}
-		}
-		return $Found;
-	}
-
-	//Colours
-	if (empty($_GET["style"]) != True){
-		$style = $_GET["style"];
-		
-		$Found = FindStyle($style);
-		if ($Found == True) {
-			$day = 86400;
-			$exptime = (($day/24)/30);
-			/*name is your cookie's name
-			value is cookie's value
-			$int is time of cookie expires*/
-			setcookie("style",$style,time()+$exptime);
-		}else{
-			if (empty($_COOKIE["style"]) != True){
-				$style = $_COOKIE["style"];
-			}else{
-				$style = "CoolIce";
-				
-				$day = 86400;
-				$exptime = (($day/24)/30);
-				/*name is your cookie's name
-				value is cookie's value
-				$int is time of cookie expires*/
-				setcookie("style",$style,time()+$exptime);
-			}
-		}
-	} else {
-		if (empty($_COOKIE["style"]) != True){
-			$style = $_COOKIE["style"];
-		}else{
-			$style = "CoolIce";
-			
-			$day = 86400;
-			$exptime = (($day/24)/30);
-			/*name is your cookie's name
-			value is cookie's value
-			$int is time of cookie expires*/
-			setcookie("style",$style,time()+$exptime);
-		}
-	}
+	require "./style.php";
 	
-	$Found = FindStyle($style);
-	
-	if ($Found == True) {
-		Null;
-	} else {
-		$style = "CoolIce";
-	}
-	
-	$JSON_CSS = file_get_contents("./JSON/STYLES/" . $style . ".json");
-	$CSS = json_decode($JSON_CSS, true);
-	$Colours = $CSS["Colours"];
-	
-	
-	function Color($ColorName){
-		global $Colours;
-		if ($ColorName == "") {
-			echo("rgba(0,0,0,0)");
-		} else {
-			$Color = $Colours[$ColorName];
-			$len = count($Color);
-			if ($len == 1) {
-				echo("rgb(" . $Color[0] . ", " . $Color[0] . ", " . $Color[0] . ")");
-			} elseif ($len == 3){
-				echo("rgb(" . $Color[0] . ", " . $Color[1] . ", " . $Color[2] . ")");
-			} elseif ($len == 4){
-				echo("rgba(" . $Color[0] . ", " . $Color[1] . ", " . $Color[2] . ", " . $Color[3] . ")");
-			}
-		}
-	}
+	heads();
 ?>
 body {
+	/* <?php echo($style); ?> */
 	font-family:arial, verdana, helvetica, sans-serif;
 	font-size:12px;
 	/* cursor:default; */
@@ -174,7 +91,7 @@ h3 {
 }
 #left {
 	float:left;
-	width:200px;
+	width:23%;
 	color:<?php Color(""); ?>;
 }
 /*#leftcontent p {
@@ -222,8 +139,8 @@ h3 {
 	padding:5px;
 }*/
 #main {
-	float:left;
-	width:639px;
+	float:right;
+	width:76%;
 	padding-bottom:20px;
 	/*background:url('http://static.caus-solutions.com/img/virt_line.png');
 	background-repeat: repeat-y;*/
@@ -303,6 +220,14 @@ h3 {
 	font-size:12px;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 }
+#footer hr {
+	border:0px;
+	color:<?php Color("Footer Line"); ?>;
+	background-color:<?php Color("Footer Line"); ?>;
+	height: 1px;
+	width: 100%;
+	text-align: center;
+}
 #footer a {
 	color:<?php Color("Footer Text Link"); ?>;
 	text-decoration:none;
@@ -312,10 +237,10 @@ h3 {
 	text-decoration:underline;
 }
 #footer img{
-    height: 18px
+    height: <?php StrVar("Image Size Footer"); ?>;
 }
 #footer img:hover{
-    height: 20px
+    height: <?php StrVar("Image Size Footer Hover"); ?>;
 }
 .right {
 	color:<?php Color("Footer Text"); ?>;

@@ -32,134 +32,137 @@
       0.5
     ],
     "Banner Main": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Banner Sub": [
-	  "RGB",  
-      119,
-      119,
-      119
+	  "RGB",
+      204,
+	  204,
+	  204
     ],
     "Banner Line": [
-	  "RGB",  
+	  "RGB",
       205,
-      205,
-      205
+	  205,
+	  205
     ],
     "Side Line": [
-	  "RGB",  
+	  "RGB",
       205,
-      205,
-      205
+	  205,
+	  205
     ],
     "Side Title": [
-	  "RGB",  
-      119,
-      119,
-      119
+	  "RGB",
+      170,
+	  170,
+	  170
     ],
     "Side Main": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Side Main Hover": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Side Selected": [
-	  "RGB",  
-      84,
-      143,
-      167
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Side Selected Hover": [
-	  "RGB",  
-      84,
-      143,
-      167
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Side Note Title": [
-	  "RGB",  
+	  "RGB",
       0,
       0,
       0
     ],
     "Side Note Content": [
-	  "RGB",  
+	  "RGB",
       0,
       0,
       0
     ],
     "Side Note BG": [
-	  "RGB",  
+	  "RGB",
       0,
       0,
       0
     ],
     "Content Title": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Content Title BG": [
-	  "RGB",  
+	  "RGB",
       249,
-      249,
-      249
+	  249,
+	  249
     ],
     "Content Body": [
-	  "RGB",  
-      85,
-      85,
-      85
+	  "RGB",
+      153,
+	  153,
+	  153
     ],
     "Content Body BG": [
 	  "Transparent"
     ],
     "Content Link": [
-	  "RGB",  
-      21,
-      0,
-      255
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Content Link Hover": [
-	  "RGB",  
-      21,
-      0,
-      255
+	  "RGB",
+      255,
+      186,
+      39
     ],
     "Content Border": [
-	  "RGB",  
+	  "RGB",
       170,
-      170,
-      170
+	  170,
+	  170
     ],
     "Footer Line": [
-	  "Transparent"
+	  "RGB",
+      205,
+	  205,
+	  205
     ],
     "Footer Text": [
-	  "RGB",  
-      85,
-      85,
-      85
+	  "RGB",
+      170,
+	  170,
+	  170
     ],
     "Footer Text Link": [
-	  "RGB",  
-      85,
-      85,
-      85
+	  "RGB",
+      170,
+	  170,
+	  170
     ]
   },
   "Variables": {
-	"Image Size Footer":"18px",
-	"Image Size Footer Hover":"20px"
+	"Image Size Footer":"15px",
+	"Image Size Footer Hover":"18px"
   }
 }

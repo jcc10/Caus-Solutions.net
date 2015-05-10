@@ -1,0 +1,9 @@
+{
+    "PageName": "Services",
+    "Title": "Our Services",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "ValidXHTML": true,
+	"Enabled": true,
+	"File": "Services.html"
+  }

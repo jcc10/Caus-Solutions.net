@@ -2,142 +2,142 @@
   "Colours": {
     "BG Top": [
 	  "RGB",
-      255,
-	  255,
-	  255
+      158,
+      193,
+      211
     ],
     "BG Bottom": [
 	  "RGB",
-      200,
-      200,
-      200
+      97,
+      147,
+      172
     ],
     "BG Main": [
-	  "RGB",  
-      200,
-      200,
-      200
+	  "RGB",
+      101,
+      151,
+      176
     ],
     "Container": [
-	  "RGB",  
-      255,
-      255,
-      255
+	  "RGB",
+      205,
+      207,
+      206
     ],
     "Container Shadow": [
-	  "RGBA",  
+	  "RGBA",
       0,
       0,
       0,
       0.5
     ],
     "Banner Main": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      196,
+      68,
+      65
     ],
     "Banner Sub": [
-	  "RGB",  
-      119,
-      119,
-      119
+	  "RGB",
+      231,
+      115,
+      49
     ],
     "Banner Line": [
-	  "RGB",  
-      205,
-      205,
-      205
+	  "RGB",
+      231,
+      115,
+      49
     ],
     "Side Line": [
-	  "RGB",  
-      205,
-      205,
-      205
+	  "RGB",
+      231,
+      115,
+      49
     ],
     "Side Title": [
-	  "RGB",  
-      119,
-      119,
-      119
+	  "RGB",
+      231,
+      115,
+      49
     ],
     "Side Main": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      196,
+      68,
+      65
     ],
     "Side Main Hover": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      196,
+      68,
+      65
     ],
     "Side Selected": [
-	  "RGB",  
-      84,
-      143,
-      167
+	  "RGB",
+      161,
+      55,
+      60
     ],
     "Side Selected Hover": [
-	  "RGB",  
-      84,
-      143,
-      167
+	  "RGB",
+      161,
+      55,
+      60
     ],
     "Side Note Title": [
-	  "RGB",  
+	  "RGB",
       0,
       0,
       0
     ],
     "Side Note Content": [
-	  "RGB",  
+	  "RGB",
       0,
       0,
       0
     ],
     "Side Note BG": [
-	  "RGB",  
+	  "RGB",
       0,
       0,
       0
     ],
     "Content Title": [
-	  "RGB",  
-      0,
-      152,
-      212
+	  "RGB",
+      247,
+      209,
+      113
     ],
     "Content Title BG": [
-	  "RGB",  
-      249,
-      249,
-      249
+	  "RGB",
+      107,
+      106,
+      114
     ],
     "Content Body": [
-	  "RGB",  
-      85,
-      85,
-      85
+	  "RGB",
+      43,
+      86,
+      110
     ],
     "Content Body BG": [
 	  "Transparent"
     ],
     "Content Link": [
-	  "RGB",  
-      21,
-      0,
-      255
+	  "RGB",
+      161,
+      55,
+      60
     ],
     "Content Link Hover": [
-	  "RGB",  
-      21,
-      0,
-      255
+	  "RGB",
+      161,
+      55,
+      60
     ],
     "Content Border": [
-	  "RGB",  
+	  "RGB",
       170,
       170,
       170
@@ -146,16 +146,16 @@
 	  "Transparent"
     ],
     "Footer Text": [
-	  "RGB",  
-      85,
-      85,
-      85
+	  "RGB",
+      43,
+      86,
+      110
     ],
     "Footer Text Link": [
-	  "RGB",  
-      85,
-      85,
-      85
+	  "RGB",
+      43,
+      86,
+      110
     ]
   },
   "Variables": {

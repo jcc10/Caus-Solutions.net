@@ -44,14 +44,14 @@ function StatusCode($Code=404){
 		}
 	} elseif ($Code == 404) {
 		$page = "404";
-		header("HTTP/1.0 404 Not Found");
+		http_response_code(404);
 		$PageData = $PageDB[$page];
 		if ($PageData["Subtitle"] != "None") {
 			$settings["Subtitle"] = $PageData["Subtitle"];
 		}
 	} else {
 		$page = "404";
-		header("HTTP/1.0 404 Not Found");
+		http_response_code(404);
 		$PageData = $PageDB[$page];
 		if ($PageData["Subtitle"] != "None") {
 			$settings["Subtitle"] = $PageData["Subtitle"];

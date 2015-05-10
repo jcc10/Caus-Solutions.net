@@ -1,133 +1,124 @@
 {
   "Colours": {
     "BG Top": [
-      158,
-      193,
-      211
+	  "HEX",
+      "22356C"
     ],
     "BG Bottom": [
-      97,
-      147,
-      172
+	  "HEX",
+      "051B3D"
     ],
     "BG Main": [
-      101,
-      151,
-      176
+	  "HEX",  
+      "051B3D"
     ],
     "Container": [
-      205,
-      207,
-      206
+	  "HEX",  
+      "2B3C78"
     ],
     "Container Shadow": [
-      0,
+	  "RGBA",  
+      0, 
       0,
       0,
       0.5
     ],
     "Banner Main": [
-      196,
-      68,
-      65
+	  "HEX",
+	  "15AC9B"
     ],
     "Banner Sub": [
-      231,
-      115,
-      49
+	  "HEX",
+	  "0B6081"
     ],
     "Banner Line": [
-      231,
-      115,
-      49
+	  "HEX",
+	  "5B7EC4"
     ],
     "Side Line": [
-      231,
-      115,
-      49
+	  "HEX",
+	  "5B7EC4"
     ],
     "Side Title": [
-      231,
-      115,
-      49
+	  "HEX",
+	  "15AC9B"
     ],
     "Side Main": [
-      196,
-      68,
-      65
+	  "HEX",
+	  "15AC9B"
     ],
     "Side Main Hover": [
-      196,
-      68,
-      65
+	  "HEX",
+	  "0B6081"
     ],
     "Side Selected": [
-      161,
-      55,
-      60
+	  "HEX",
+	  "0B6081"
     ],
     "Side Selected Hover": [
-      161,
-      55,
-      60
+	  "HEX",
+	  "15AC9B"
     ],
     "Side Note Title": [
+	  "RGB",  
       0,
       0,
       0
     ],
     "Side Note Content": [
+	  "RGB",  
       0,
       0,
       0
     ],
     "Side Note BG": [
+	  "RGB",  
       0,
       0,
       0
     ],
     "Content Title": [
-      247,
-      209,
-      113
+	  "HEX",
+	  "595CAB"
     ],
     "Content Title BG": [
-      107,
-      106,
-      114
+	  "HEX",
+	  "58D2BC"
     ],
     "Content Body": [
-      43,
-      86,
-      110
+	  "HEX",
+	  "040318"
     ],
     "Content Body BG": [
-      205,
-      207,
-      206
+	  "HEX",
+	  "88D9E1"
     ],
     "Content Link": [
-      161,
-      55,
-      60
+	  "HEX",
+	  "1549AE"
     ],
     "Content Link Hover": [
-      161,
-      55,
-      60
+	  "HEX",
+	  "6543C3"
     ],
     "Content Border": [
-      170
+	  "HEX",
+	  "5B7EC4"
+    ],
+    "Footer Line": [
+	  "Transparent"
     ],
     "Footer Text": [
-      43,
-      86,
-      110
+	  "HEX",
+	  "7C7DD6"
     ],
     "Footer Text Link": [
-      43,
-      86,
-      110
+	  "HEX",
+	  "7C7DD6"
     ]
+  },
+  "Variables": {
+	"Image Size Footer":"18px",
+	"Image Size Footer Hover":"20px"
   }
 }

@@ -1,0 +1,9 @@
+{
+    "PageName": "Home",
+    "Title": "Home",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "ValidXHTML": true,
+	"Enabled": true,
+	"File": "Home.html"
+  }

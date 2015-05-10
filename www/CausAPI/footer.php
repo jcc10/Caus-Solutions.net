@@ -33,6 +33,7 @@ function FooterRight() {
 function main(){
 	global $tabs, $settings;
 	echo ("$tabs[3]<div id='footer'><div class='spacer'></div>");
+	echo ("<hr />");
 	
 	\Caus\Footer\FooterLeft();
 	\Caus\Footer\FooterRight();

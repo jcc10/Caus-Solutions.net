@@ -1,0 +1,9 @@
+{
+    "PageName": "CommunityJar",
+    "Title": "Community Jar",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "ValidXHTML": true,
+	"Enabled": true,
+	"File": "CommunityJar.html"
+  }

@@ -1,0 +1,9 @@
+{
+    "PageName": "Credits",
+    "Title": "Credits",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "ValidXHTML": true,
+	"Enabled": true,
+	"File": "Credits.html"
+  }
