@@ -3,11 +3,11 @@
 namespace Caus\Body;
 
 function Sidebar($SidebarNote) {
-	global $tabs, $PageData, $page;
+	global $tabs, $PageData;
 	//Left side and LeftSide Content
 	echo "$tabs[3]<div id='left'>$tabs[4]<div id='leftcontent'>$tabs[0]";
 	//Sidebar Menu!
-	\Caus\Menus\SideMenu($PageData["Sidebar"], $page);
+	\Caus\Menus\SideMenu($PageData["Sidebar"], $PageData["PageName"]);
 	//Sidebar Note will go here
 	//TODO: Sidebar Note
 	//End of left Content!
@@ -16,12 +16,12 @@ function Sidebar($SidebarNote) {
 
 
 function CoreContent() {
-	global $tabs, $page;
+	global $tabs, $PageData;
 	//Start of main content
 	echo("$tabs[3]<div id='main'>$tabs[4]<div id='maincontent'>$tabs[0]$tabs[0]$tabs[0]");
 	
 	// Loads the content form a PHP file... I should check if it can do a HTML file...
-	include "./content/" . $page . ".html";
+	include "./content/" . $PageData["File"];
 	
 	//End of main content!
 	echo("$tabs[0]$tabs[0]$tabs[0]$tabs[4]</div> <!-- end main content section -->$tabs[3]</div> ");

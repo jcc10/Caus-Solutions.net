@@ -10,7 +10,7 @@ function SideMenu($SidebarName, $SourcePageName) {
 	}else{
 		$Sidebar = $SidebarDB["Main"];
 	}
-	echo "$tabs[5]<ul>";
+	echo "$tabs[5]<ul class='sidemenu'>";
 	echo "$tabs[6]<li>Navigation</li>";
 	foreach ($Sidebar as $ID => $Item) {
 		\Caus\Menus\__SideMenuItem($Item, $SourcePageName);

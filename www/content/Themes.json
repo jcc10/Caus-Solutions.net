@@ -1,0 +1,9 @@
+{
+    "PageName": "Themes",
+    "Title": "Theme Changer",
+    "Subtitle": "None",
+    "Sidebar": "Main",
+    "ValidXHTML": true,
+	"Enabled": false,
+	"File": "Themes.php"
+  }

@@ -1,0 +1,78 @@
+{
+  "DES": {
+    "CoolIce": {
+      "Full Name": "Cool Ice",
+      "Description": "This Theme was made by Joshua Cline for the C&#225;us Solutions website, it was the original site's theme until the overhaul."
+    },
+    "ClassicYellow": {
+      "Full Name": "Classic Yellow",
+      "Description": "This Theme was made by Adam Particka and was called autonomus. It is the basis for the website template and the basis for the website. The template was made by Matt Hollis in 2006."
+    },
+    "EnhancedYellow": {
+      "Full Name": "Enhanced Yellow",
+      "Description": "A initial cross between Classic Yellow and Cool Ice. This was used momentarily before moving from yellow to blue"
+    },
+    "R66": {
+      "Full Name": "Route 66",
+      "Description": "A Theme based off of Disney Pixar Cars."
+    },
+    "PixieGreen": {
+      "Full Name": "PixieGreen",
+      "Description": "A Theme based off of Disney's Tinker-bell."
+    },
+    "MiAmoreCadenza": {
+      "Full Name": "Mi Amore Cadenza",
+      "Description": "A design based off of the character Princess Candace (Princess Mi Amore Cadenza) from: \"My Little Pony : Friendship Is Magic!\". (I needed colour schemes for examples and these fit!)"
+    },
+    "NewLuna": {
+      "Full Name": "New Luna",
+      "Description": "A design based off of the character Princess Luna (New Colour Scheme) from: \"My Little Pony : Friendship Is Magic!\". (I needed colour schemes for examples and these fit!)"
+    },
+    "Tia": {
+      "Full Name": "Celestia",
+      "Description": "A design based off of the character Princess Celestia from: \"My Little Pony : Friendship Is Magic!\". (I needed colour schemes for examples and these fit!)"
+    },
+    "Twilight": {
+      "Full Name": "Twilight Sparkle",
+      "Description": "A design based off of the character Twilight Sparkle from: \"My Little Pony : Friendship Is Magic!\". (I needed colour schemes for examples and these fit!)"
+    }
+  },
+  "LIST": [
+    {
+      "ShortName": "CoolIce",
+      "Full Name": "Cool Ice"
+    },
+    {
+      "ShortName": "ClassicYellow",
+      "Full Name": "Classic Yellow"
+    },
+    {
+      "ShortName": "EnhancedYellow",
+      "Full Name": "Enhanced Yellow"
+    },
+    {
+      "ShortName": "R66",
+      "Full Name": "Route 66"
+    },
+    {
+      "ShortName": "PixieGreen",
+      "Full Name": "Pixie Green"
+    },
+    {
+      "ShortName": "MiAmoreCadenza",
+      "Full Name": "Mi Amore Cadenza"
+    },
+    {
+      "ShortName": "NewLuna",
+      "Full Name": "New Luna"
+    },
+    {
+      "ShortName": "Tia",
+      "Full Name": "Celestia"
+    },
+    {
+      "ShortName": "Twilight",
+      "Full Name": "Twilight Sparkle"
+    }
+  ]
+}

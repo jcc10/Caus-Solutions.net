@@ -102,29 +102,32 @@ h3 {
 	margin-left:20px;
 	margin-right:20px;
 }*/
-#leftcontent ul {
+#leftcontent ul.sidemenu {
 	cursor:default;
 	list-style:none;
 	padding-left:20px;
 	color:<?php Color("Side Title"); ?>;
+	border: 0px;
 }
 #leftcontent a {
 	color:<?php Color("Side Main"); ?>;
 	text-decoration:none;
-	font-size:16px;
+	font-size:15px;
 }
 #leftcontent a:hover {
 	color:<?php Color("Side Main Hover"); ?>;
 	text-decoration:underline;
+	font-size:15px;
 }
 #leftcontent b {
 	color:<?php Color("Side Selected"); ?>;
 	text-decoration:none;
-	font-size:16px;
+	font-size:15px;
 }
 #leftcontent b:hover {
 	color:<?php Color("Side Selected Hover"); ?>;
 	text-decoration:none;
+	font-size:15px;
 }
 /*.news {
 	color:#999999;
@@ -146,31 +149,13 @@ h3 {
 	background-repeat: repeat-y;*/
 	border-left: thin solid <?php Color("Side Line"); ?>
 }
-#maincontent p {
-	cursor:default;
-	color:<?php Color("Content Body"); ?>;
-	background-color:<?php Color("Content Body BG"); ?>;
+#maincontent p.end, form.end, ul.end, p.last, form.last, ul.last {
 	border-bottom:1px;
-	border-left:1px;
-	border-right:1px;
-	border-top:0px;
 	border-style:solid;
-	border-color:<?php Color("Content Border"); ?>;
-	margin-left:20px;
-	margin-right:20px;
 	margin-bottom:15px;
-	line-height:20px;
-	padding:20px;
+	border-color:<?php Color("Content Border"); ?>;
 }
-.featured_paragraph {
-    font-size:15px;
-}
-.NoBottom {
-    font-size:15px;
-    border-bottom:0px;
-	margin-bottom:0px;
-}
-#maincontent form {
+#maincontent p, form, ul {
 	cursor:default;
 	color:<?php Color("Content Body"); ?>;
 	background-color:<?php Color("Content Body BG"); ?>;
@@ -182,28 +167,13 @@ h3 {
 	border-color:<?php Color("Content Border"); ?>;
 	margin-left:20px;
 	margin-right:20px;
-	margin-bottom:0px;
 	line-height:20px;
 	padding:20px;
-	font-size:15px;
 }
-#maincontent ul {
-	cursor:default;
-	color:<?php Color("Content Body"); ?>;
-	background-color:<?php Color("Content Body BG"); ?>;
-	border-bottom:0px;
-	border-left:1px;
-	border-right:1px;
-	border-top:0px;
-	border-style:solid;
-	border-color:<?php Color("Content Border"); ?>;
-	margin-left:20px;
-	margin-right:20px;
-	margin-bottom:0px;
-	line-height:20px;
-	padding:20px;
-	font-size:15px;
+p.featured_paragraph {
+    font-size:15px;
 }
+
 #maincontent a {
 	color:<?php Color("Content Link"); ?>;
 	text-decoration:none;

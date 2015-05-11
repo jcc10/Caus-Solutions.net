@@ -18,66 +18,78 @@ function PreLoad() {
 
 //The DBload function
 function DB_Loader() {
-	global $SidebarDB, $PageDB, $CWD;
-	$settings = array("DB" => "JSON");
-	if ($settings["DB"] == "JSON") {
-		//JSON Mode
-		$file = $CWD . "/JSON/sidebars.json";
-		$JSON_Sidebars = file_get_contents($file);
-		$SidebarDB = json_decode($JSON_Sidebars, true);
-		$file = $CWD . "/JSON/pages.json";
-		$JSON_Pages = file_get_contents($file);
-		$PageDB = json_decode($JSON_Pages, true);
-	} elseif (($settings["DB"] == "MySQL") or ($settings["DB"] == "MYSQL") or ($settings["DB"] == "mySQL")) {
-		//TODO: NOT DONE
-	}
+	global $SidebarDB, $CWD;
+	//Load JSON stuff (Yah I'm not doing MySQL for the pages...)
+	$file = $CWD . "/JSON/sidebars.json";
+	$JSON_Sidebars = file_get_contents($file);
+	$SidebarDB = json_decode($JSON_Sidebars, true);
 }
 
-// The Status Code function. It only contains codes 200 and 404 right now.
-function StatusCode($Code=404){
-	global $PageDB, $page, $settings;
+// Updates Subtitle if there is a updated subtitle.
+function UpdateSub(){
+	global $Page, $PageData, $settings;
 	
-	if ($Code == 200) {
-		$PageData = $PageDB[$page];
-		if ($PageData["Subtitle"] != "None") {
-			$settings["Subtitle"] = $PageData["Subtitle"];
+	if ($PageData["Subtitle"] != "None") {
+		$settings["Subtitle"] = $PageData["Subtitle"];
+	}
+	
+}
+
+function PageExsists($PageName, $Mode="Secure") {
+	global $CWD, $PageData;
+	$listoffiles = scandir("$CWD/content/");
+	$Found = False;
+	$Locked = False;
+	foreach ($listoffiles as $file){
+		preg_match("/(.+)\.json/", $file, $regmatch);
+		if (count($regmatch) == 2){
+			if ($regmatch[1] == $PageName) {
+				$JSON_PAGE = file_get_contents("$CWD/content/" . $regmatch[1] . ".json");
+				$PageData = json_decode($JSON_PAGE, true);
+				if ($PageData["Enabled"] == True) {
+					$Found = True;
+				}else{
+					$Found = True;
+					$Locked = True;
+				}
+			}
 		}
-	} elseif ($Code == 404) {
-		$page = "404";
-		http_response_code(404);
-		$PageData = $PageDB[$page];
-		if ($PageData["Subtitle"] != "None") {
-			$settings["Subtitle"] = $PageData["Subtitle"];
+
+	}
+	if ($Found == True) {
+		if (($Locked == True) and ($Mode == "Secure")) {
+			http_response_code(423);
+			$JSON_PAGE = file_get_contents("$CWD/content/423.json");
+			$PageData = json_decode($JSON_PAGE, true);
 		}
 	} else {
-		$page = "404";
 		http_response_code(404);
-		$PageData = $PageDB[$page];
-		if ($PageData["Subtitle"] != "None") {
-			$settings["Subtitle"] = $PageData["Subtitle"];
-		}
+		$JSON_PAGE = file_get_contents("$CWD/content/404.json");
+		$PageData = json_decode($JSON_PAGE, true);
 	}
-	return $PageData;
 }
 
 function main(){
-	global $page, $PageDB, $PageData;
-	// Set local variables based off of GET requests...
+	global $PageData;
+	// Loads what the page is based off of the GET-"Page"
 	if (empty($_GET["page"]) != True){
 		$page = $_GET["page"];
 	} else {
 		$page = "Home";
 	}
 	
-	// Trys to find the file in the database. (True if found)
-	$found = array_key_exists($page, $PageDB);
-	
-	// Sends ether a 404 error or a 200 OK responce code
-	if ($found == True){
-		$PageData = \Caus\Load\StatusCode(200);
-	}else {
-		$PageData = \Caus\Load\StatusCode(404);
+	$Secure = "Secure";
+	// Overwrites the above if it is GET-"DEV"
+	//* Make a block comment here if you are not editing your site, this is a MAJOR security hole (TODO: ADD CONFIG OPTION)
+	if (empty($_GET["DEV"]) != True){
+		$page = $_GET["DEV"];
+		$Secure = "Insecure";
 	}
+	/**/
+	// Trys to find the file in the database. (True if found)
+	PageExsists($page, $Secure);
+	
+	UpdateSub();
 	
 }
 
