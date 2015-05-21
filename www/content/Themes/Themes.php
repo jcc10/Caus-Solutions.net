@@ -2,7 +2,7 @@
 
 	namespace Content;
 	//This has A LOT OF PHP (and JSON) so it has been split into the main print, the main PHP and a DATA JSON file(s?).
-	require "./content/ThemesPHP.php"
+	require "./content/Themes/ThemesPHP.php"
 
 ?>
 
@@ -19,7 +19,7 @@
 <!--<input type="hidden" name="page" value="Themes"  required />-->
 <input type="hidden" name="DEV" value="Themes"  required />
 <select name="style" required>
-	<?php \Content\PHP\ListThem($ThemesList, $style); ?>
+<?php \Content\PHP\ListThem($ThemesList, $style); ?>
 </select>
 <input type="submit" value="Submit">
 </form>

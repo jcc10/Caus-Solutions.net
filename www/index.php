@@ -1,5 +1,6 @@
 <?php
 
+	require_once "./CausAPI/theme.php";
 	require_once "./CausAPI/load.php";
 	require_once "./CausAPI/header.php";
 	require_once "./CausAPI/menus.php";
@@ -23,6 +24,7 @@
 	// Main Header Function
 	\Caus\Head\main();
 	
+	// Main Body Function.
 	\Caus\Body\main();
 	
 

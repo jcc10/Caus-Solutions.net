@@ -23,7 +23,7 @@ function FooterRight() {
 	echo "$tabs[4]<p class=\"right\">";
 	
 	
-	echo "$tabs[5]<a href=\"" . $settings["Root"] . "credits.php\">Website Design Credits</a><br />";
+	echo "$tabs[5]<a href=\"./index.php?page=Credits\">Website Design Credits</a><br />";
 	echo "$tabs[5]Content &copy;2015 " . $settings["CO-Name"] . "<br />&nbsp;";
 	
 	

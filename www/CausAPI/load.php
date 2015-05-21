@@ -18,11 +18,14 @@ function PreLoad() {
 
 //The DBload function
 function DB_Loader() {
-	global $SidebarDB, $CWD;
-	//Load JSON stuff (Yah I'm not doing MySQL for the pages...)
+	global $SidebarDB,$MainMenuDB, $CWD;
+	//Load JSON stuff
 	$file = $CWD . "/JSON/sidebars.json";
 	$JSON_Sidebars = file_get_contents($file);
 	$SidebarDB = json_decode($JSON_Sidebars, true);
+	$file = $CWD . "/JSON/main_menu.json";
+	$JSON_MainMenu = file_get_contents($file);
+	$MainMenuDB = json_decode($JSON_MainMenu, true);
 }
 
 // Updates Subtitle if there is a updated subtitle.

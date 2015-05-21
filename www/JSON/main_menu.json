@@ -16,11 +16,6 @@
       "PageName": "Services"
     },
     {
-      "Text": "Themes DEV MODE",
-      "Link": "./index.php?DEV=Themes",
-      "PageName": "Themes"
-    },
-    {
       "Text": "Community Jar",
       "Link": "./index.php?page=CommunityJar",
       "PageName": "CommunityJar"

@@ -3,7 +3,8 @@
     "Title": "Theme Changer",
     "Subtitle": "None",
     "Sidebar": "Main",
+    "MainMenu": "Main",
     "ValidXHTML": true,
 	"Enabled": false,
-	"File": "Themes.php"
+	"File": "Themes/Themes.php"
   }

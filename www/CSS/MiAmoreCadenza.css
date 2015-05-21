@@ -1,0 +1,113 @@
+/* Style/Theme: MiAmoreCadenza */
+body {
+	background: -moz-linear-gradient(#D399FC 0%, #B262F5 480px);
+	background: -webkit-linear-gradient(#D399FC 0%,#B262F5 480px);
+	background: -o-linear-gradient(#D399FC 0%,#B262F5 480px);
+	background: -ms-linear-gradient(#D399FC 0%,#B262F5 480px);
+	background: linear-gradient(#D399FC 0%,#B262F5 480px);
+	background-repeat: no-repeat;
+	background-color: #B262F5;
+}
+#container {
+	background: #FBCCE7;
+	box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+#banner hr {
+	color:#40D5DA;
+	background-color:#40D5DA;
+}
+#banner h1 {
+	color:#5C207D;
+}
+#banner h2 {
+	color:#C782DC;
+}
+#banner li {
+	background-color: #98bf21;
+}
+ 
+#banner li a {
+	color: #FFFFFF;
+	background-color: #98bf21;
+}
+ 
+#banner li a.active, #banner a:hover {
+	background-color: #7A991A;
+	color: #D9CD60;
+}#left {
+	color:rgba(0,0,0,0);
+}
+#leftcontent ul.sidemenu {
+	color:#76448B;
+	background-color: rgba(0,0,0,0);
+}
+#leftcontent a {
+	color:#CA259D;
+}
+#leftcontent a:hover {
+	color:#F699D2;
+}
+#leftcontent b {
+	color:#F699D2;
+}
+#leftcontent b:hover {
+	color:#CA259D;
+}
+/*#leftcontent p{
+	color:rgba(0,0,0,0);
+	background-color:rgba(0,0,0,0);
+}
+leftcontent h3.news {
+	color:#CDA2E5;
+	background-color:#CA259D;
+	border-color:#7B2BAB;
+}
+#leftcontent p.news {
+	color:#999999;
+	border-color:#AAAAAA;
+	background-color:#FFFFFF;
+}*/
+#main {
+	border-left: thin solid #40D5DA}
+#main h3 {
+	color:#CDA2E5;
+	background-color:#CA259D;
+	border-color:#7B2BAB;
+}
+#maincontent p.end, form.end, ul.end, p.last, form.last, ul.last {
+	border-color:#7B2BAB;
+}
+#maincontent p, form, ul {
+	color:#6D2697;
+	background-color:#FAC1E6;
+	border-color:#7B2BAB;
+}
+
+#maincontent a {
+	color:#D5BB42;
+}
+#maincontent a:hover {
+	color:#E7D249;
+}
+#footer hr {
+	color:rgba(0,0,0,0);
+	background-color:rgba(0,0,0,0);
+}
+#footer a {
+	color:#F9F385;
+}
+#footer img{
+    height: 18px;
+}
+#footer img:hover{
+    height: 20px;
+}
+.right {
+	color:#F9F385;
+}
+.left {
+	color:#F9F385;
+}

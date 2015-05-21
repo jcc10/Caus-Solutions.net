@@ -4,7 +4,7 @@
 
 	//looks through the Style Dir for the style, prevents errors.
 	
-	$listoffiles = scandir("./JSON/STYLES/");
+	$listoffiles = scandir("./THEME-JSON/");
 	function FindStyle($StyleName){
 		$stylePP = $StyleName . ".json";
 		global $listoffiles;
@@ -27,38 +27,9 @@
 		
 		$Found = FindStyle($style);
 		if ($Found == True) {
-			$day = 86400;
-			$exptime = ($day*30);
-			/*name is your cookie's name
-			value is cookie's value
-			$int is time of cookie expires*/
-			setcookie("style",$style,time()+$exptime);
-		}else{
-			if (empty($_COOKIE["style"]) != True){
-				$style = $_COOKIE["style"];
-			}else{
-				$style = $defaultCSS;
-				
-				$day = 86400;
-				$exptime = ($day*30);
-				/*name is your cookie's name
-				value is cookie's value
-				$int is time of cookie expires*/
-				setcookie("style",$style,time()+$exptime);
-			}
-		}
-	} else {
-		if (empty($_COOKIE["style"]) != True){
-			$style = $_COOKIE["style"];
+			Null;
 		}else{
 			$style = $defaultCSS;
-			
-			$day = 86400;
-			$exptime = ($day*30);
-			/*name is your cookie's name
-			value is cookie's value
-			$int is time of cookie expires*/
-			setcookie("style",$style,time()+$exptime);
 		}
 	}
 	
@@ -70,7 +41,7 @@
 		$style = $defaultCSS;
 	}
 	
-	$JSON_CSS = file_get_contents("./JSON/STYLES/" . $style . ".json");
+	$JSON_CSS = file_get_contents("./THEME-JSON/" . $style . ".json");
 	$CSS = json_decode($JSON_CSS, true);
 	$Colours = $CSS["Colours"];
 	$Variables = $CSS["Variables"];
@@ -78,7 +49,7 @@
 	
 	function Color($ColorName){
 		global $Colours;
-		if ($ColorName == "") {
+		if (($ColorName == "") or ($ColorName == "Transparent")) {
 			echo("rgba(0,0,0,0)");
 		} else {
 			$Color = $Colours[$ColorName];

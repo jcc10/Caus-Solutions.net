@@ -3,6 +3,7 @@
     "Title": "Our Services",
     "Subtitle": "None",
     "Sidebar": "Main",
+    "MainMenu": "Main",
     "ValidXHTML": true,
 	"Enabled": true,
 	"File": "Services.html"

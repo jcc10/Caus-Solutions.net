@@ -162,7 +162,7 @@
     ]
   },
   "Variables": {
-	"Image Size Footer":"15px",
-	"Image Size Footer Hover":"18px"
+	"Image Size Footer":"18px",
+	"Image Size Footer Hover":"20px"
   }
 }

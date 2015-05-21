@@ -1,155 +1,124 @@
 {
   "Colours": {
     "BG Top": [
-	  "Transparent"
+	  "HEX",
+      "D399FC"
     ],
     "BG Bottom": [
-	  "Transparent"
+	  "HEX",
+      "B262F5"
     ],
     "BG Main": [
-	  "RGB",
-      255,
-      255,
-      255
+	  "HEX",  
+      "B262F5"
     ],
     "Container": [
-	  "Transparent"
+	  "HEX",  
+      "FBCCE7"
     ],
     "Container Shadow": [
-	  "Transparent"
+	  "RGBA",  
+      0, 
+      0,
+      0,
+      0.5
     ],
     "Banner Main": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "5C207D"
     ],
     "Banner Sub": [
-	  "RGB",
-      204,
-	  204,
-	  204
+	  "HEX",
+	  "C782DC"
     ],
     "Banner Line": [
-	  "RGB",
-      205,
-	  205,
-	  205
+	  "HEX",
+	  "40D5DA"
     ],
     "Side Line": [
-	  "RGB",
-      205,
-	  205,
-	  205
+	  "HEX",
+	  "40D5DA"
     ],
     "Side Title": [
-	  "RGB",
-      170,
-	  170,
-	  170
+	  "HEX",
+	  "76448B"
     ],
     "Side Main": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "CA259D"
     ],
     "Side Main Hover": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "F699D2"
     ],
     "Side Selected": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "F699D2"
     ],
     "Side Selected Hover": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "CA259D"
     ],
     "Side Note Title": [
-	  "RGB",
+	  "RGB",  
       0,
       0,
       0
     ],
     "Side Note Content": [
-	  "RGB",
+	  "RGB",  
       0,
       0,
       0
     ],
     "Side Note BG": [
-	  "RGB",
+	  "RGB",  
       0,
       0,
       0
     ],
     "Content Title": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "CDA2E5"
     ],
     "Content Title BG": [
-	  "RGB",
-      249,
-	  249,
-	  249
+	  "HEX",
+	  "CA259D"
     ],
     "Content Body": [
-	  "RGB",
-      153,
-	  153,
-	  153
+	  "HEX",
+	  "6D2697"
     ],
     "Content Body BG": [
-	  "Transparent"
+	  "HEX",
+	  "FAC1E6"
     ],
     "Content Link": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "D5BB42"
     ],
     "Content Link Hover": [
-	  "RGB",
-      255,
-      186,
-      39
+	  "HEX",
+	  "E7D249"
     ],
     "Content Border": [
-	  "RGB",
-      170,
-	  170,
-	  170
+	  "HEX",
+	  "7B2BAB"
     ],
     "Footer Line": [
-	  "RGB",
-      205,
-	  205,
-	  205
+	  "Transparent"
     ],
     "Footer Text": [
-	  "RGB",
-      170,
-	  170,
-	  170
+	  "HEX",
+	  "F9F385"
     ],
     "Footer Text Link": [
-	  "RGB",
-      170,
-	  170,
-	  170
+	  "HEX",
+	  "F9F385"
     ]
   },
   "Variables": {
-	"Image Size Footer":"15px",
-	"Image Size Footer Hover":"18px"
+	"Image Size Footer":"18px",
+	"Image Size Footer Hover":"20px"
   }
 }

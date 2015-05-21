@@ -3,6 +3,7 @@
     "Title": "Home",
     "Subtitle": "None",
     "Sidebar": "Main",
+    "MainMenu": "None",
     "ValidXHTML": true,
 	"Enabled": true,
 	"File": "Home.html"

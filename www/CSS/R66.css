@@ -1,0 +1,101 @@
+/* Style/Theme: R66 */
+body {
+	background: -moz-linear-gradient(rgb(158, 193, 211) 0%, rgb(97, 147, 172) 480px);
+	background: -webkit-linear-gradient(rgb(158, 193, 211) 0%,rgb(97, 147, 172) 480px);
+	background: -o-linear-gradient(rgb(158, 193, 211) 0%,rgb(97, 147, 172) 480px);
+	background: -ms-linear-gradient(rgb(158, 193, 211) 0%,rgb(97, 147, 172) 480px);
+	background: linear-gradient(rgb(158, 193, 211) 0%,rgb(97, 147, 172) 480px);
+	background-repeat: no-repeat;
+	background-color: rgb(101, 151, 176);
+}
+#container {
+	background: rgb(205, 207, 206);
+	box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+#banner hr {
+	color:rgb(231, 115, 49);
+	background-color:rgb(231, 115, 49);
+}
+#banner h1 {
+	color:rgb(196, 68, 65);
+}
+#banner h2 {
+	color:rgb(231, 115, 49);
+}
+#left {
+	color:rgba(0,0,0,0);
+}
+#leftcontent ul.sidemenu {
+	color:rgb(231, 115, 49);
+	background-color: rgba(0,0,0,0);
+}
+#leftcontent a {
+	color:rgb(196, 68, 65);
+}
+#leftcontent a:hover {
+	color:rgb(196, 68, 65);
+}
+#leftcontent b {
+	color:rgb(161, 55, 60);
+}
+#leftcontent b:hover {
+	color:rgb(161, 55, 60);
+}
+/*#leftcontent p{
+	color:rgba(0,0,0,0);
+	background-color:rgba(0,0,0,0);
+}
+leftcontent h3.news {
+	color:rgb(247, 209, 113);
+	background-color:rgb(107, 106, 114);
+	border-color:rgb(170, 170, 170);
+}
+#leftcontent p.news {
+	color:#999999;
+	border-color:#AAAAAA;
+	background-color:#FFFFFF;
+}*/
+#main {
+	border-left: thin solid rgb(231, 115, 49)}
+#main h3 {
+	color:rgb(247, 209, 113);
+	background-color:rgb(107, 106, 114);
+	border-color:rgb(170, 170, 170);
+}
+#maincontent p.end, form.end, ul.end, p.last, form.last, ul.last {
+	border-color:rgb(170, 170, 170);
+}
+#maincontent p, form, ul {
+	color:rgb(43, 86, 110);
+	background-color:rgba(0,0,0,0);
+	border-color:rgb(170, 170, 170);
+}
+
+#maincontent a {
+	color:rgb(161, 55, 60);
+}
+#maincontent a:hover {
+	color:rgb(161, 55, 60);
+}
+#footer hr {
+	color:rgba(0,0,0,0);
+	background-color:rgba(0,0,0,0);
+}
+#footer a {
+	color:rgb(43, 86, 110);
+}
+#footer img{
+    height: 18px;
+}
+#footer img:hover{
+    height: 20px;
+}
+.right {
+	color:rgb(43, 86, 110);
+}
+.left {
+	color:rgb(43, 86, 110);
+}

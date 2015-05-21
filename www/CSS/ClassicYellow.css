@@ -1,0 +1,113 @@
+/* Style/Theme: ClassicYellow */
+body {
+	background: -moz-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 480px);
+	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,0) 480px);
+	background: -o-linear-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,0) 480px);
+	background: -ms-linear-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,0) 480px);
+	background: linear-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,0) 480px);
+	background-repeat: no-repeat;
+	background-color: rgb(255, 255, 255);
+}
+#container {
+	background: rgba(0,0,0,0);
+	box-shadow: 0 0 6px rgba(0,0,0,0);
+	-moz-box-shadow: 0 0 6px rgba(0,0,0,0);
+	-webkit-box-shadow: 0 0 6px rgba(0,0,0,0);
+}
+
+#banner hr {
+	color:rgb(205, 205, 205);
+	background-color:rgb(205, 205, 205);
+}
+#banner h1 {
+	color:rgb(255, 186, 39);
+}
+#banner h2 {
+	color:rgb(204, 204, 204);
+}
+#banner li {
+	background-color: #98bf21;
+}
+ 
+#banner li a {
+	color: #FFFFFF;
+	background-color: #98bf21;
+}
+ 
+#banner li a.active, #banner a:hover {
+	background-color: #7A991A;
+	color: #D9CD60;
+}#left {
+	color:rgba(0,0,0,0);
+}
+#leftcontent ul.sidemenu {
+	color:rgb(170, 170, 170);
+	background-color: rgba(0,0,0,0);
+}
+#leftcontent a {
+	color:rgb(255, 186, 39);
+}
+#leftcontent a:hover {
+	color:rgb(255, 186, 39);
+}
+#leftcontent b {
+	color:rgb(255, 186, 39);
+}
+#leftcontent b:hover {
+	color:rgb(255, 186, 39);
+}
+/*#leftcontent p{
+	color:rgba(0,0,0,0);
+	background-color:rgba(0,0,0,0);
+}
+leftcontent h3.news {
+	color:rgb(255, 186, 39);
+	background-color:rgb(249, 249, 249);
+	border-color:rgb(170, 170, 170);
+}
+#leftcontent p.news {
+	color:#999999;
+	border-color:#AAAAAA;
+	background-color:#FFFFFF;
+}*/
+#main {
+	border-left: thin solid rgb(205, 205, 205)}
+#main h3 {
+	color:rgb(255, 186, 39);
+	background-color:rgb(249, 249, 249);
+	border-color:rgb(170, 170, 170);
+}
+#maincontent p.end, form.end, ul.end, p.last, form.last, ul.last {
+	border-color:rgb(170, 170, 170);
+}
+#maincontent p, form, ul {
+	color:rgb(153, 153, 153);
+	background-color:rgba(0,0,0,0);
+	border-color:rgb(170, 170, 170);
+}
+
+#maincontent a {
+	color:rgb(255, 186, 39);
+}
+#maincontent a:hover {
+	color:rgb(255, 186, 39);
+}
+#footer hr {
+	color:rgb(205, 205, 205);
+	background-color:rgb(205, 205, 205);
+}
+#footer a {
+	color:rgb(170, 170, 170);
+}
+#footer img{
+    height: 15px;
+}
+#footer img:hover{
+    height: 18px;
+}
+.right {
+	color:rgb(170, 170, 170);
+}
+.left {
+	color:rgb(170, 170, 170);
+}
