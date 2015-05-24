@@ -1,5 +1,9 @@
 {
   "DES": {
+    "ClassicIce": {
+      "Full Name": "Cool Ice",
+      "Description": "A Hybrid of Cool Ice and Classic Yellow. (Made just for completeness sake.)"
+    },
     "CoolIce": {
       "Full Name": "Cool Ice",
       "Description": "This Theme was made by Joshua Cline for the C&#225;us Solutions website, it was the original site's theme until the overhaul."
@@ -10,7 +14,7 @@
     },
     "EnhancedYellow": {
       "Full Name": "Enhanced Yellow",
-      "Description": "A initial cross between Classic Yellow and Cool Ice. This was used momentarily before moving from yellow to blue"
+      "Description": "A initial cross between Classic Yellow and Cool Ice. This was used momentarily before moving from yellow to blue."
     },
     "R66": {
       "Full Name": "Route 66",
@@ -39,16 +43,28 @@
   },
   "LIST": [
     {
+      "ShortName": "disabled",
+      "Full Name": "~~ Clasic Themes ~~"
+    },
+    {
       "ShortName": "CoolIce",
       "Full Name": "Cool Ice"
+    },
+    {
+      "ShortName": "ClassicIce",
+      "Full Name": "Classic Ice"
+    },
+    {
+      "ShortName": "EnhancedYellow",
+      "Full Name": "Enhanced Yellow"
     },
     {
       "ShortName": "ClassicYellow",
       "Full Name": "Classic Yellow"
     },
     {
-      "ShortName": "EnhancedYellow",
-      "Full Name": "Enhanced Yellow"
+      "ShortName": "disabled",
+      "Full Name": "~~ Disney Themes ~~"
     },
     {
       "ShortName": "R66",
@@ -57,6 +73,10 @@
     {
       "ShortName": "PixieGreen",
       "Full Name": "Pixie Green"
+    },
+    {
+      "ShortName": "disabled",
+      "Full Name": "~~ MLP:FIM Themes ~~"
     },
     {
       "ShortName": "MiAmoreCadenza",

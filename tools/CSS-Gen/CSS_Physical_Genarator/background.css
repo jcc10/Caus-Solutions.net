@@ -1,0 +1,20 @@
+
+/* Begin main */
+body {
+	font-family:arial, verdana, helvetica, sans-serif;
+	font-size:12px;
+	/* cursor:default; */
+}
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+html {
+	height:100%;
+	margin-bottom:1px;
+}
+#container {
+	width: 840px;
+	margin: 0 auto;
+}

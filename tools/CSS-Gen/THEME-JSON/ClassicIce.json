@@ -1,0 +1,212 @@
+{
+  "Colours": {
+    "BG": {
+      "BG Top": [
+        "Transparent"
+      ],
+      "BG Bottom": [
+        "Transparent"
+      ],
+      "BG Main": [
+        "RGB",
+        255,
+        255,
+        255
+      ]
+    },
+    "Container": {
+      "Container BG": [
+        "Transparent"
+      ],
+      "Container Shadow": [
+        "Transparent"
+      ]
+    },
+    "Banner": {
+      "Banner Main": [
+        "RGB",
+        0,
+        152,
+        212
+      ],
+      "Banner Sub": [
+        "RGB",
+        119,
+        119,
+        119
+      ]
+    },
+    "Tab": {
+      "Tab Default BG": [
+        "RGBC",
+        249
+      ],
+      "Tab Default Border": [
+        "RGBC",
+        205
+      ],
+      "Tab Default Text": [
+        "RGB",
+        0,
+        152,
+        212
+      ],
+      "Tab Selected BG": [
+        "RGBC",
+        255
+      ],
+      "Tab Selected Border": [
+        "RGBC",
+        205
+      ],
+      "Tab Selected Text": [
+        "RGB",
+        0,
+        152,
+        212
+      ],
+      "Tab Hover BG": [
+        "RGBC",
+        249
+      ],
+      "Tab Hover Border": [
+        "RGB",
+        0,
+        152,
+        212
+      ],
+      "Tab Hover Text": [
+        "RGB",
+        0,
+        152,
+        212
+      ]
+    },
+    "Side": {
+      "Side Title": [
+        "RGB",
+        119,
+        119,
+        119
+      ],
+      "Side Main": [
+        "RGB",
+        0,
+        152,
+        212
+      ],
+      "Side Main Hover": [
+        "RGB",
+        0,
+        152,
+        212
+      ],
+      "Side Selected": [
+        "RGB",
+        84,
+        143,
+        167
+      ],
+      "Side Selected Hover": [
+        "RGB",
+        84,
+        143,
+        167
+      ],
+      "Side Note Title": [
+        "RGB",
+        0,
+        0,
+        0
+      ],
+      "Side Note Content": [
+        "RGB",
+        0,
+        0,
+        0
+      ],
+      "Side Note BG": [
+        "RGB",
+        0,
+        0,
+        0
+      ]
+    },
+    "Content": {
+      "Content Title": [
+        "RGB",
+        0,
+        152,
+        212
+      ],
+      "Content Title BG": [
+        "RGB",
+        249,
+        249,
+        249
+      ],
+      "Content Body": [
+        "RGB",
+        85,
+        85,
+        85
+      ],
+      "Content Body BG": [
+        "Transparent"
+      ],
+      "Content Link": [
+        "RGB",
+        21,
+        0,
+        255
+      ],
+      "Content Link Hover": [
+        "RGB",
+        21,
+        0,
+        255
+      ],
+      "Content Border": [
+        "RGB",
+        170,
+        170,
+        170
+      ]
+    },
+    "Footer": {
+      "Footer Line": [
+        "Transparent"
+      ],
+      "Footer Text": [
+        "RGB",
+        85,
+        85,
+        85
+      ]
+    },
+    "Line": {
+      "Banner Line": [
+        "RGB",
+        205,
+        205,
+        205
+      ],
+      "Side Line": [
+        "RGB",
+        205,
+        205,
+        205
+      ],
+      "Footer Line": [
+        "RGB",
+        205,
+        205,
+        205
+      ]
+    }
+  },
+  "Variables": {
+    "Image Size Footer": "15px",
+    "Image Size Footer Hover": "18px"
+  }
+}

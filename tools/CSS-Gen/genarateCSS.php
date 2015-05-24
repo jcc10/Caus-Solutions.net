@@ -15,10 +15,19 @@ function ListThem() {
 	}
 }
 ?>
+<html>
+<head>
+<title>C/N: Theme Genarator</title>
+</head>
+<body>
 <h3>Select what CSS you want to view.</h3>
 <form action="./CSS-GEN.php" method="get"  class="end">
 <select name="style" required>
 <?php ListThem(); ?>
 </select>
+<br />
 <input type="submit" value="Submit">
-</form>
+</form><br /><br />
+<a href="./CSS-Physical-Genarator.php">Physical-Genarator</a>
+</body>
+</html>

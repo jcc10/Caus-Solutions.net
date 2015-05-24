@@ -1,0 +1,188 @@
+{
+  "Colours": {
+    "BG": {
+      "BG Top": [
+        "HEX",
+        "22356C"
+      ],
+      "BG Bottom": [
+        "HEX",
+        "051B3D"
+      ],
+      "BG Main": [
+        "HEX",
+        "051B3D"
+      ]
+    },
+    "Container": {
+      "Container BG": [
+        "HEX",
+        "2B3C78"
+      ],
+      "Container Shadow": [
+        "RGBA",
+        0,
+        0,
+        0,
+        0.5
+      ]
+    },
+    "Banner": {
+      "Banner Main": [
+        "HEX",
+        "15AC9B"
+      ],
+      "Banner Sub": [
+        "HEX",
+        "0B6081"
+      ]
+    },
+    "Tab": {
+      "Tab Default BG": [
+        "RGB",
+        123,
+        167,
+        189
+      ],
+      "Tab Default Border": [
+        "RGB",
+        43,
+        86,
+        110
+      ],
+      "Tab Default Text": [
+        "HEX",
+        "FFFFFF"
+      ],
+      "Tab Selected BG": [
+        "RGB",
+        231,
+        115,
+        49
+      ],
+      "Tab Selected Border": [
+        "RGB",
+        196,
+        68,
+        65
+      ],
+      "Tab Selected Text": [
+        "HEX",
+        "FFFFFF"
+      ],
+      "Tab Hover BG": [
+        "RGB",
+        196,
+        68,
+        65
+      ],
+      "Tab Hover Border": [
+        "RGB",
+        231,
+        115,
+        49
+      ],
+      "Tab Hover Text": [
+        "HEX",
+        "FFFFFF"
+      ]
+    },
+    "Side": {
+      "Side Title": [
+        "HEX",
+        "15AC9B"
+      ],
+      "Side Main": [
+        "HEX",
+        "15AC9B"
+      ],
+      "Side Main Hover": [
+        "HEX",
+        "0B6081"
+      ],
+      "Side Selected": [
+        "HEX",
+        "0B6081"
+      ],
+      "Side Selected Hover": [
+        "HEX",
+        "15AC9B"
+      ],
+      "Side Note Title": [
+        "RGB",
+        0,
+        0,
+        0
+      ],
+      "Side Note Content": [
+        "RGB",
+        0,
+        0,
+        0
+      ],
+      "Side Note BG": [
+        "RGB",
+        0,
+        0,
+        0
+      ]
+    },
+    "Content": {
+      "Content Title": [
+        "HEX",
+        "595CAB"
+      ],
+      "Content Title BG": [
+        "HEX",
+        "58D2BC"
+      ],
+      "Content Body": [
+        "HEX",
+        "040318"
+      ],
+      "Content Body BG": [
+        "HEX",
+        "88D9E1"
+      ],
+      "Content Link": [
+        "HEX",
+        "1549AE"
+      ],
+      "Content Link Hover": [
+        "HEX",
+        "6543C3"
+      ],
+      "Content Border": [
+        "HEX",
+        "5B7EC4"
+      ]
+    },
+    "Footer": {
+      "Footer Text": [
+        "HEX",
+        "7C7DD6"
+      ],
+      "Footer Text Link": [
+        "HEX",
+        "7C7DD6"
+      ]
+    },
+    "Line": {
+      "Banner Line": [
+        "HEX",
+        "5B7EC4"
+      ],
+      "Side Line": [
+        "HEX",
+        "5B7EC4"
+      ],
+      "Footer Line": [
+        "Transparent"
+      ]
+    }
+  },
+  "Variables": {
+    "Image Size Footer": "18px",
+    "Image Size Footer Hover": "20px"
+  }
+}

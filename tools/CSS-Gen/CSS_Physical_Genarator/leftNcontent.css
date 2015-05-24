@@ -1,0 +1,55 @@
+
+/* End Menu & Begin LeftBar+Note */
+#left {
+	float:left;
+	width:23%;
+}
+#leftcontent ul.sidemenu {
+	cursor:default;
+	list-style:none;
+	padding-left:20px;
+	border: 0;
+}
+#leftcontent a {
+	text-decoration:none;
+	font-size:15px;
+}
+#leftcontent a:hover {
+	text-decoration:underline;
+	font-size:15px;
+}
+#leftcontent b {
+	text-decoration:none;
+	font-size:15px;
+}
+#leftcontent b:hover {
+	text-decoration:none;
+	font-size:15px;
+}
+/* TODO: Side Note
+#leftcontent p{
+	font-size: 12px;
+	text-align:left;
+	margin-left:20px;
+	margin-right:20px;
+}
+leftcontent h3.news {
+	cursor:default;
+	font-size:15px;
+	border-width:1px;
+	border-style:solid;
+	text-align:left;
+	margin-left:20px;
+	margin-right:20px;
+	font-weight:300;
+	padding:5px;
+}
+#leftcontent p.news {
+	border-bottom:1px;
+	border-left:1px;
+	border-right:1px;
+	border-top:0px;
+	border-style:solid;
+	line-height:20px;
+	padding:5px;
+}*/

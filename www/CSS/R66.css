@@ -1,4 +1,5 @@
-/* Style/Theme: R66 */
+/* Style/Theme: R66*/
+/* Date Generated: 2015-05-24 01:57:02*/
 body {
 	background: -moz-linear-gradient(rgb(158, 193, 211) 0%, rgb(97, 147, 172) 480px);
 	background: -webkit-linear-gradient(rgb(158, 193, 211) 0%,rgb(97, 147, 172) 480px);
@@ -13,24 +14,39 @@ body {
 	box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
 	-moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
 	-webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
-}
-
-#banner hr {
-	color:rgb(231, 115, 49);
-	background-color:rgb(231, 115, 49);
-}
-#banner h1 {
+}#banner h1 {
 	color:rgb(196, 68, 65);
 }
 #banner h2 {
 	color:rgb(231, 115, 49);
 }
-#left {
-	color:rgba(0,0,0,0);
+#TabMenu hr {
+	color:rgb(231, 115, 49);
+	background-color:rgb(231, 115, 49);
+}
+#TabMenu ul.mainmenu {
+	border-bottom: thin solid rgb(231, 115, 49);
+}
+#TabMenu ul li.menuitem {
+	background-color: rgb(123, 167, 189);
+	border-color: rgb(43, 86, 110);
+	color: #FFFFFF;
+}
+#TabMenu ul li.menuitem.active {
+	background-color: rgb(231, 115, 49);
+	border-color: rgb(196, 68, 65);
+	color: #FFFFFF;
+}
+#TabMenu ul li.menuitem:hover {
+	background-color: rgb(196, 68, 65);
+	border-color: rgb(231, 115, 49);
+	color: #FFFFFF;
+}#left {
+	color:transparent;
 }
 #leftcontent ul.sidemenu {
 	color:rgb(231, 115, 49);
-	background-color: rgba(0,0,0,0);
+	background-color: transparent;
 }
 #leftcontent a {
 	color:rgb(196, 68, 65);
@@ -45,8 +61,8 @@ body {
 	color:rgb(161, 55, 60);
 }
 /*#leftcontent p{
-	color:rgba(0,0,0,0);
-	background-color:rgba(0,0,0,0);
+	color:transparent;
+	background-color:transparent;
 }
 leftcontent h3.news {
 	color:rgb(247, 209, 113);
@@ -70,7 +86,7 @@ leftcontent h3.news {
 }
 #maincontent p, form, ul {
 	color:rgb(43, 86, 110);
-	background-color:rgba(0,0,0,0);
+	background-color:transparent;
 	border-color:rgb(170, 170, 170);
 }
 
@@ -81,8 +97,8 @@ leftcontent h3.news {
 	color:rgb(161, 55, 60);
 }
 #footer hr {
-	color:rgba(0,0,0,0);
-	background-color:rgba(0,0,0,0);
+	color:transparent;
+	background-color:transparent;
 }
 #footer a {
 	color:rgb(43, 86, 110);

@@ -1,0 +1,180 @@
+{
+  "Colours": {
+    "BG": {
+      "BG Top": [
+        "HEX",
+        "AD70C4"
+      ],
+      "BG Bottom": [
+        "HEX",
+        "BC90CC"
+      ],
+      "BG Main": [
+        "HEX",
+        "BC90CC"
+      ]
+    },
+    "Container": {
+      "Container BG": [
+        "HEX",
+        "D7A3E7"
+      ],
+      "Container Shadow": [
+        "RGBA",
+        0,
+        0,
+        0,
+        0.5
+      ]
+    },
+    "Banner": {
+      "Banner Main": [
+        "HEX",
+        "E33997"
+      ],
+      "Banner Sub": [
+        "HEX",
+        "33437D"
+      ]
+    },
+    "Tab": {
+      "Tab Default BG": [
+        "HEX",
+        "#270a4a"
+      ],
+      "Tab Default Border": [
+        "HEX",
+        "9761af"
+      ],
+      "Tab Default Text": [
+        "HEX",
+        "7030BF"
+      ],
+      "Tab Selected BG": [
+        "HEX",
+        "d7a3E7"
+      ],
+      "Tab Selected Border": [
+        "HEX",
+        "e33997"
+      ],
+      "Tab Selected Text": [
+        "HEX",
+        "7030BF"
+      ],
+      "Tab Hover BG": [
+        "RGB",
+		51,
+		67,
+		125
+      ],
+      "Tab Hover Border": [
+        "RGB",
+		39,
+		10,
+		74
+      ],
+      "Tab Hover Text": [
+        "HEX",
+        "e33997"
+      ]
+    },
+    "Side": {
+      "Side Title": [
+        "HEX",
+        "1F2B55"
+      ],
+      "Side Main": [
+        "HEX",
+        "33437D"
+      ],
+      "Side Main Hover": [
+        "HEX",
+        "1F2B55"
+      ],
+      "Side Selected": [
+        "HEX",
+        "6E2A93"
+      ],
+      "Side Selected Hover": [
+        "HEX",
+        "6E2A93"
+      ],
+      "Side Note Title": [
+        "RGB",
+        0,
+        0,
+        0
+      ],
+      "Side Note Content": [
+        "RGB",
+        0,
+        0,
+        0
+      ],
+      "Side Note BG": [
+        "RGB",
+        0,
+        0,
+        0
+      ]
+    },
+    "Content": {
+      "Content Title": [
+        "HEX",
+        "270A4A"
+      ],
+      "Content Title BG": [
+        "HEX",
+        "9761AF"
+      ],
+      "Content Body": [
+        "HEX",
+        "7030BF"
+      ],
+      "Content Body BG": [
+        "HEX",
+        "D4BADC"
+      ],
+      "Content Link": [
+        "HEX",
+        "6E2A93"
+      ],
+      "Content Link Hover": [
+        "HEX",
+        "6E2A93"
+      ],
+      "Content Border": [
+        "HEX",
+        "E33C96"
+      ]
+    },
+    "Footer": {
+      "Footer Text": [
+        "HEX",
+        "FFFFFF"
+      ],
+      "Footer Text Link": [
+        "HEX",
+        "FFFFFF"
+      ]
+    },
+    "Line": {
+      "Banner Line": [
+        "HEX",
+        "E33C96"
+      ],
+      "Side Line": [
+        "HEX",
+        "E33C96"
+      ],
+      "Footer Line": [
+        "Transparent"
+      ]
+    }
+  },
+  "Variables": {
+    "Image Size Footer": "18px",
+    "Image Size Footer Hover": "20px"
+  }
+}

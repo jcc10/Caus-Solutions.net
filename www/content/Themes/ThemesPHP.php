@@ -15,10 +15,12 @@
 	function ListThem($ListArray, $CurrentSelection){
 		
 		foreach ($ListArray as $ListItem) {
-			if ($ListItem["ShortName"] == $CurrentSelection) {
-				echo("\t<option value='" . $ListItem["ShortName"] . "' selected=\"selected\">" . $ListItem["Full Name"] . "</option>\n");
+			if ($ListItem["ShortName"] == "disabled") {
+				echo("\t" . $ListItem["Full Name"] . "<br />\n");
+			} elseif ($ListItem["ShortName"] == $CurrentSelection) {
+				echo("\t<input type='radio' name='style' value='" . $ListItem["ShortName"] . "' checked />" . $ListItem["Full Name"] . "<br />\n");
 			} else {
-				echo("\t<option value='" . $ListItem["ShortName"] . "'>" . $ListItem["Full Name"] . "</option>\n");
+				echo("\t<input type='radio' name='style' value='" . $ListItem["ShortName"] . "' />" . $ListItem["Full Name"] . "<br />\n");
 			}
 		}
 	}

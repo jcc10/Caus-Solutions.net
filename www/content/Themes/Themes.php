@@ -9,18 +9,16 @@
 <!-- Content Code -->
 
 
-<!-- Library TS -->
+<!-- Meta Data about Current Theme -->
 <h3 class="featured_heading">Current Theme: <?php echo($ThemeArray["Full Name"]); ?></h3>
 <p class="featured_paragraph end"><?php echo($ThemeArray["Description"]) ?></p>
 
-<!-- Antivirus -->
-<h3>Antivirus Scans</h3>
+<!-- Change Theme -->
+<h3>Change Theme</h3>
 <form action="./index.php" method="get"  class="end">
-<!--<input type="hidden" name="page" value="Themes"  required />-->
-<input type="hidden" name="DEV" value="Themes"  required />
-<select name="style" required>
+<!--<input type="hidden" name="page" value="Themes"  required="required" />-->
+<input type="hidden" name="DEV" value="Themes"/>
 <?php \Content\PHP\ListThem($ThemesList, $style); ?>
-</select>
 <input type="submit" value="Submit">
 </form>
 

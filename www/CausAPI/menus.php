@@ -52,7 +52,7 @@ function __TopMenuItem($Item, $SourcePageName) {
 	if ($Item["PageName"] == $SourcePageName) {
 		echo "$tabs[4]<li class='active menuitem'><a>" . $Item["Text"] . "</a></li>";
 	} else{
-		echo "$tabs[4]<li class='menuitem'><a href=\"" . $Item["Link"] . "\">" . $Item["Text"] . "</a></li>";
+		echo "$tabs[4]<li class='menuitem'><a class='link' href=\"" . $Item["Link"] . "\">" . $Item["Text"] . "</a></li>";
 	}
 }
 

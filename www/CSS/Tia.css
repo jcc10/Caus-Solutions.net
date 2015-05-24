@@ -1,4 +1,5 @@
-/* Style/Theme: Tia */
+/* Style/Theme: Tia*/
+/* Date Generated: 2015-05-24 01:56:43*/
 body {
 	background: -moz-linear-gradient(#F3E7EB 0%, #F1D0E1 480px);
 	background: -webkit-linear-gradient(#F3E7EB 0%,#F1D0E1 480px);
@@ -13,36 +14,39 @@ body {
 	box-shadow: 0 0 6px rgba(115, 54, 128, 0.5);
 	-moz-box-shadow: 0 0 6px rgba(115, 54, 128, 0.5);
 	-webkit-box-shadow: 0 0 6px rgba(115, 54, 128, 0.5);
-}
-
-#banner hr {
-	color:#733680;
-	background-color:#733680;
-}
-#banner h1 {
+}#banner h1 {
 	color:#622D86;
 }
 #banner h2 {
 	color:#E78DE4;
 }
-#banner li {
-	background-color: #98bf21;
+#TabMenu hr {
+	color:#733680;
+	background-color:#733680;
 }
- 
-#banner li a {
+#TabMenu ul.mainmenu {
+	border-bottom: thin solid #733680;
+}
+#TabMenu ul li.menuitem {
+	background-color: #cdf5c3;
+	border-color: #4cbcac;
+	color: #622d86;
+}
+#TabMenu ul li.menuitem.active {
+	background-color: #9F5CB5;
+	border-color: #733680;
+	color: #FEE59E;
+}
+#TabMenu ul li.menuitem:hover {
+	background-color: #733680;
+	border-color: #E78DE4;
 	color: #FFFFFF;
-	background-color: #98bf21;
-}
- 
-#banner li a.active, #banner a:hover {
-	background-color: #7A991A;
-	color: #D9CD60;
 }#left {
-	color:rgba(0,0,0,0);
+	color:transparent;
 }
 #leftcontent ul.sidemenu {
 	color:#E8C075;
-	background-color: rgba(0,0,0,0);
+	background-color: transparent;
 }
 #leftcontent a {
 	color:#4CBCAC;
@@ -57,8 +61,8 @@ body {
 	color:#FEE59E;
 }
 /*#leftcontent p{
-	color:rgba(0,0,0,0);
-	background-color:rgba(0,0,0,0);
+	color:transparent;
+	background-color:transparent;
 }
 leftcontent h3.news {
 	color:#622D86;
@@ -93,8 +97,8 @@ leftcontent h3.news {
 	color:#E69AF4;
 }
 #footer hr {
-	color:rgba(0,0,0,0);
-	background-color:rgba(0,0,0,0);
+	color:transparent;
+	background-color:transparent;
 }
 #footer a {
 	color:#419EC8;

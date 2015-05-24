@@ -1,9 +1,11 @@
+
+/*End Banner & Begin Menu */
 #TabMenu ul {
 	padding-bottom:20px;
 	float:right;
-	margin: 0px;
-	padding: 0px;
-	border: 0px;
+	margin: 0;
+	padding: 0;
+	border: 0;
 	width:100%;
 /* This is to right-justify the content */
 	padding: 0;
@@ -19,12 +21,13 @@
 	display: flex;
 	-webkit-justify-content: flex-end; 
 	justify-content: flex-end; 
+	background-color: transparent;
 }
-#TabMenu li.menuitem {
+#TabMenu li {
 	border: 2px solid;
 	border-top-left-radius: 2em;
 	border-top-right-radius: 0.35em;
-	border-bottom:0px;
+	border-bottom:0;
 	list-style-type: none;
 	display: inline;
 	margin: 0px 0px 0px 0px;
@@ -33,31 +36,12 @@
 	text-decoration: none;
 	margin-left:8px;
 	margin-top:3px;
+	color: inherit;
 }
-#TabMenu hr.Buffered {
+#TabMenu hr {
+	border:0;
+	height: 1px;
+	width: 100%;
+	text-align: center;
 	margin-top: 23px;
-}
-
-/* Theme Data */
-
-#TabMenu ul {
-	border-bottom: thin solid rgb(231, 115, 49);
-}
-#TabMenu li {
-	background-color: rgb(123, 167, 189);
-}
- 
-#TabMenu li a {
-	color: #FFFFFF;
-}
- 
-#TabMenu ul li.active {
-	background-color: rgb(231, 115, 49);
-	border-color: rgb(196, 68, 65);
-	color: #FFFFFF;
-}
-#TabMenu li:hover {
-	background-color: rgb(196, 68, 65);
-	border-color: rgb(231, 115, 49);
-	color: #FFFFFF;
 }
